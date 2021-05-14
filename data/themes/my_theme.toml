@@ -1,0 +1,37 @@
+# Theme metadata
+name = "Flatlyish"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#2c3e50"
+
+# Menu
+menu_primary = "#2c3e50"
+menu_text = "#fff"
+menu_text_active = "#18bc9c"
+menu_title = "#fff"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"
+
+# Links
+link_hover = "#18bc9c"
+
+[dark]
+  # Menu
+  menu_primary = "#375a7f"
+  menu_text = "#adb5bd"
+  menu_text_active = "#fff"
+  
+  # Home sections
+  home_section_odd = "#222"
+  home_section_even = "#303030"
+  
+  # Links
+  link = "#18bc9c"
+  link_hover = "#18bc9c"
+
+  

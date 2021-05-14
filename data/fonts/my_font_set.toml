@@ -1,0 +1,11 @@
+# Font style metadata
+name = "grandSiteFont"
+
+# Optional Google font URL
+google_fonts = "family=Raleway&family=Rubik&family=Lato"
+
+# Font families
+heading_font = "Raleway"
+body_font = "Lato"
+nav_font = "Raleway"
+mono_font = "Roboto Mono"
