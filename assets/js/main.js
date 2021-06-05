@@ -2,7 +2,7 @@ var canvas, canvas_dom;
 var shapes, piece_collection;
 var renderer;
 var current_shape = 'blankcanvas';
-var imgNames = [ "systemThinking", "teams", "process", "learning", "dynamics", "emerge", "decisions" ]
+var imgNames = [ "emerge", "systemThinking", "process", "dynamics", "teams", "learning", "decisions" ]
 
 $(function() {
   if($('section').is("#swarm-banner")) {

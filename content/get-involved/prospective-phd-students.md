@@ -85,8 +85,8 @@ Everyone has their own strengths and weaknesses that make them unique, and there
 - **Critical thinking and argumentation skills.** All of science involves formulating ideas about how the world works, gathering and interpreting observations, and evaluating evidentiary claims. The capacity to piece together a coherent and sensible argument, defend/support an idea or conclusion, and incorporate new or different knowledge into your worldview are all instrumental to growing as a PhD scientist and practitioner.
     - *Ways to develop:*
       - After writing a complete draft of a paper, write a reverse outline where you summarize the points made in each paragraph
-      - Practice your listening and ask questions -- you'd be suprised at how much you can learn about how/why people think about something by simply listening to someone explain a topic/perspective
-      - Practice your meta-cognitive and self-reflection skills by asking why *you* feel, believe, or react in particular way
+      - Practice your listening and ask questions -- you'd be suprised at how much you can learn about how/why people think about something by simply listening
+      - Practice your meta-cognitive and self-reflection skills by asking why *you* feel, believe, or react in a particular way
 - **Collaboration skills and prosocial orientation.** The development and application of scientific knowledge to better understand and improve the world is a "team sport." The days of the lone wolf, go-it-your-own scientist are over. Being able to work in and contribute to collaborative efforts through forming supportive and enriching relationships with peers, colleagues, and other stakeholders is a must.
   - *Ways to develop:*
     - Actively participate in group assignments/projects
@@ -114,33 +114,33 @@ In the previous section ("What do you think makes a great PhD student?"), I list
     - Attending and/or presenting at conferences or research fairs
     - Letters of recommendation
 - **Conscientiousness.**
-    - *Potential indicators:*
-     - Leadership positions in work, school, or community organizations
-     - Experience as a research lab manager
-     - Direct experience preparing study materials, collecting data, or conducting analyses
-     - Writing and/or co-authoring papers
-     - Undergraduate GPA
+  - *Potential indicators:*
+    - Leadership positions in work, school, or community organizations
+    - Experience as a research lab manager
+    - Direct experience preparing study materials, collecting data, or conducting analyses
+    - Writing and/or co-authoring papers
+    - Undergraduate GPA
 - **Writing and communication skills.**
-    - *Potential indicators:*
-     - Writing and/or co-authoring papers
-     - Conducting independent research (e.g., honor's thesis, first-authored posters, talks, or papers)
-     - Presenting at conferences or research fairs
-     - Quality of writing in the personal statement
-     - Quality of writing samples
+  - *Potential indicators:*
+    - Writing and/or co-authoring papers
+    - Conducting independent research (e.g., honor's thesis, first-authored posters, talks, or papers)
+    - Presenting at conferences or research fairs
+    - Quality of writing in the personal statement
+    - Quality of writing samples
 - **Critical thinking and argumentation skills.** 
-    - *Potential indicators:*
-     - Conducting independent research (e.g., honor's thesis, first-authored posters, talks, or papers)
-     - Writing and/or co-authoring papers
-     - Participating in one or more research labs
-     - Quality of writing samples
-     - Letters of recommendation
+  - *Potential indicators:*
+    - Conducting independent research (e.g., honor's thesis, first-authored posters, talks, or papers)
+    - Writing and/or co-authoring papers
+    - Participating in one or more research labs
+    - Quality of writing samples
+    - Letters of recommendation
 - **Collaboration skills and prosocial orientation.**
   - *Potential indicators*
-     - Leadership positions in work, school, or community organizations
-     - Accomplishments and feedback on group projects
-     - Participating in one or more research labs
-     - Co-authoring papers
-     - Letters of recommendation
+    - Leadership positions in work, school, or community organizations
+    - Accomplishments and feedback on group projects
+    - Participating in one or more research labs
+    - Co-authoring papers
+    - Letters of recommendation
 
 <hr>
 {{< /spoiler >}}
