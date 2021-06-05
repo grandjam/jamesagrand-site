@@ -23,7 +23,7 @@ feature:
   btn_icon_pack: fas
   btn_icon: circle-notch
   btn_icon_label: Learn More
-  btn_url: /research
+  btn_url: /research/research-overview
 
 - top_icon_pack: custom
   top_icon: share
