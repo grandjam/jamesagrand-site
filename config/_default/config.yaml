@@ -5,7 +5,7 @@
 
 title: James A. Grand # Website name
 baseurl: 'https://jamesagrand.netlify.app/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© 2021-{year} James A. Grand <br> [License and attributions](/license)' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE

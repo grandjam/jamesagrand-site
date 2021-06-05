@@ -18,12 +18,12 @@ subtitle:
 feature:
 - top_icon_pack: custom
   top_icon: social-science
-  name: RESEARCH
-  description: I study how differences in the judgments, choices, and behaviors of individuals over time give rise to unique patterns of psychological, social, and organizational outcomes.
+  name: LEARN
+  description: I explore how the judgments, choices, and behaviors of individuals unfold over time and give rise to unique patterns of psychological, social, and organizational outcomes.
   btn_icon_pack: fas
   btn_icon: circle-notch
   btn_icon_label: Learn More
-  btn_url: https://google.com/
+  btn_url: /research
 
 - top_icon_pack: custom
   top_icon: share
@@ -32,16 +32,16 @@ feature:
   btn_icon_pack: fas
   btn_icon: circle-notch
   btn_icon_label: Learn More
-  btn_url: https://google.com/
+  btn_url: /teaching
   
 - top_icon_pack: custom
   top_icon: collaborate
   name: COLLABORATE
-  description: I work with and learn from students, colleagues, and practitioners to explore important questions about psychological, social, and organizational phenomena.
+  description: I team with students, colleagues, and practitioners to pursue important questions about how to make individuals, teams, and organizations work better.
   btn_icon_pack: fas
   btn_icon: circle-notch
   btn_icon_label: Learn More
-  btn_url: https://google.com/
+  btn_url: /get-involved/mentoring
 
 # Uncomment to use emoji icons.
 #- top_icon: ":smile:"

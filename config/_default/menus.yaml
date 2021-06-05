@@ -4,25 +4,59 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
-    url: '#about'
-    weight: 10
-  - name: Posts
-    url: '#posts'
-    weight: 20
+  # - name: Home
+  #   url: '/'
+  #   weight: 1
+  - name: Research
+    url: ''
+    weight: 1
+  - name: Overview
+    url: '/research/research-overview'
+    parent: "Research"
+    weight: 1
   - name: Projects
-    url: '#projects'
-    weight: 30
-  - name: Talks
-    url: '#talks'
-    weight: 40
+    url: '/projects-home'
+    parent: "Research"
+    weight: 2
   - name: Publications
-    url: '#featured'
-    weight: 50
-  - name: Contact
-    url: '#contact'
-    weight: 60
-
+    url: '/publication'
+    parent: "Research"
+    weight: 3
+  - name: People
+    url: '/people'
+    parent: "Research"
+    weight: 4
+  - name: Lab Resources
+    url: '/research/resources'
+    parent: "Research"
+    weight: 5
+  - name: Teaching
+    url: '/teaching'
+    weight: 4
+  - name: Get Involved
+    url: ''
+    weight: 5
+  - name: Mentoring
+    url: '/get-involved/mentoring'
+    parent: "Get Involved"
+    weight: 1
+  - name: PhD Applicants
+    url: '/get-involved/prospective-phd-students'
+    parent: "Get Involved"
+    weight: 2
+  - name: Undergraduate RAs
+    url: '/get-involved/undergraduate-RA'
+    parent: "Get Involved"
+    weight: 3
+  - name: News & Notes
+    url: '/post'
+    weight: 6
+# - name: Projects
+  #   url: '#projects'
+  #   weight: 5
+  # - name: Talks
+  #   url: '#talks'
+  #   weight: 6
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
 #  - name: CV

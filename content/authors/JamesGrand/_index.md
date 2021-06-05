@@ -1,6 +1,6 @@
 ---
 role: Associate Professor, Psychology
-bio: "I'm a scientist at heart, an organizational psychologist by training, and a lucky dad and husband the rest of the time."
+bio: "I'm a scientist at heart, an organizational psychologist by training, and a lucky dad and husband all the time."
 interests:
   - Complex systems
   - Team functioning & cognition
@@ -39,15 +39,20 @@ education:
       institution: Auburn University, Auburn AL
       year: 2006
 superuser: true
-highlight_name: false
+highlight_name: true
 title: James A. Grand
 email: "grandjam@umd.edu"
+# For people page
+user_groups: 
+  - Principal Investigator
 ---
 
 **Dr. James A. Grand** is an Associate Professor in the [Social, Decision, and Organizational Sciences](http://www.sdos.umd.edu) program in the [Department of Psychology](https://psyc.umd.edu/) at the University of Maryland. 
 
-His primary work focuses on understanding how individuals and teams build knowledge, make decisions, and enact behaviors to accomplish personal and collective goals. His research philosophy is heavily inspred by the science of [*complex systems*](https://www.santafe.edu/what-is-complex-systems-science), which suggests that the psychological and social phenomena we observe *emerge* from how  actions, relationships, perceptions, events, and contexts unfold within and between people over time in an environment. 
+My primary work focuses on understanding how individuals and teams build knowledge, make decisions, and enact behaviors to accomplish personal and collective goals. My research philosophy is heavily inspred by the science of *complex systems*, which suggests that the psychological and social phenomena we observe *emerge* from how  actions, relationships, perceptions, events, and contexts unfold within and between people over time in an environment. 
 
-He makes use of a variety of methodologies and data sources to conduct his work, including behavioral observation, experimental research, and computational modeling/simulation. Examples of his specific research interests include how individuals working within teams gather, share, and interpret information to make decisions and accomplish tasks; how the behaviors, communication, and regulatory efforts (e.g., leadership, influence) among individuals affects individual and collective outcomes; and how judgment/information processing influence individual learning and assessment outcomes.
+Examples of my specific research interests include how individuals working within teams gather, share, and interpret information to make decisions and accomplish tasks; how the behaviors, communication, and regulatory efforts (e.g., leadership, influence) among individuals affects individual and collective outcomes; and how judgment/information processing influence individual learning and assessment outcomes. I rely on a variety of methodologies and data sources to study these topics, including behavioral observation, experimental studies, and computational modeling/simulation.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+Beyond my professional interests, I love spending time with my wife and our two kids, hiking and outdoor activities, watching and remembering when I used to actually be able to play sports, playing board games, and learning about computers, space, and other nerdy stuff.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Grand.pdf" "newtab" >}}CV{{< /staticref >}} or {{< staticref "uploads/CVannotated_Grand.pdf" "newtab" >}}annotated CV{{< /staticref >}}
