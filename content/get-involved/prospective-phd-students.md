@@ -107,34 +107,34 @@ A low GPA, poor GRE scores, or minimal research experience is thus not guarantee
 
 In the previous section ("What do you think makes a great PhD student?"), I listed several competencies that I feel tend to be indicative of success as a PhD student and future scientist-practitioner. When reviewing prospective students, I generally attempt to formulate impressions of each of these facets based on the information provided in your application. There is no single metric that conveys each of these attributes perfectly, but in the interest of transparency, I've provided examples of some of the indicators I attend to when forming these interpretations below. This list is non-exhaustive and is not intended to reflect my final decision-making process.
 
-- **Intellectual curiosity.**
+- **Intellectual curiosity**
   - *Potential indicators:*
     - Conducting independent research (e.g., honor's thesis, first-authored posters, talks, or papers)
     - Participating in one or more research labs
     - Attending and/or presenting at conferences or research fairs
     - Letters of recommendation
-- **Conscientiousness.**
+- **Conscientiousness**
   - *Potential indicators:*
     - Leadership positions in work, school, or community organizations
     - Experience as a research lab manager
     - Direct experience preparing study materials, collecting data, or conducting analyses
     - Writing and/or co-authoring papers
     - Undergraduate GPA
-- **Writing and communication skills.**
+- **Writing and communication skills**
   - *Potential indicators:*
     - Writing and/or co-authoring papers
     - Conducting independent research (e.g., honor's thesis, first-authored posters, talks, or papers)
     - Presenting at conferences or research fairs
     - Quality of writing in the personal statement
     - Quality of writing samples
-- **Critical thinking and argumentation skills.** 
+- **Critical thinking and argumentation skills** 
   - *Potential indicators:*
     - Conducting independent research (e.g., honor's thesis, first-authored posters, talks, or papers)
     - Writing and/or co-authoring papers
     - Participating in one or more research labs
     - Quality of writing samples
     - Letters of recommendation
-- **Collaboration skills and prosocial orientation.**
+- **Collaboration skills and prosocial orientation**
   - *Potential indicators*
     - Leadership positions in work, school, or community organizations
     - Accomplishments and feedback on group projects

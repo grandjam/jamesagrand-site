@@ -15,7 +15,7 @@ header:
 <div class = "alert alert-success">
   <div class = "row">
     <div class = "col-md-12">
-      I am currently accepting applications for undergraduate research assistants for the Fall 2022 semester. Please review the information below on lab expectations and requirements, complete the lab application form, and someone from our lab will follow up to schedule a time to discuss opportunities.
+      I am currently accepting applications for volunteer undergraduate research assistants for the Fall 2022 semester. Please review the information below on lab expectations and requirements, complete the lab application form, and someone from our lab will follow up to schedule a time to discuss opportunities.
       <br><span style="font-weight: bold">Last updated: 5/25/21</span>
     </div>
   </div>
@@ -130,6 +130,8 @@ The University of Maryland psychology department offers the [option for undergra
   Will complete either a short paper or presentation by the end of the semester on a topic agreed upon with Prof. Grand
   </label>
 </div>
+<br>
+Please note that if you do not meet the above criteria, you are still eligible to apply for the lab as a volunteer undergraduate RA for no course credit. 
 <hr>
 {{< /spoiler >}}
 
