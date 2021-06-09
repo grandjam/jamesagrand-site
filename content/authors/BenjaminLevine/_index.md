@@ -29,3 +29,4 @@ email: ""
 user_groups: 
   - PhD Alumni
 ---
+Ben Levine earned his PhD in Psychology in 2020 (Dissertation: [Why are leaders perceived as abusive: Evaluating the definition of abusive leadership with an experimental examination comparing harmful leader intentions, behaviors, and the frequency of leader actions](https://drum.lib.umd.edu/handle/1903/26184)). He is currently an HR Business Partner at [Johnson & Johnson](https://www.jnj.com/) where he contributes to strategic business practices and initiatives.

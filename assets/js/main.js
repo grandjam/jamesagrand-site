@@ -113,23 +113,6 @@ function initShapes() {
    *		}))
    * 
    */
-   var welcome_img = $('img#welcome');
-   shapes.add('welcome', new Shape({
-     src: welcome_img.attr('src'),
-     width: welcome_img.attr('width') * .8, // x 5
-     height: welcome_img.attr('height') * .8, // x 5
-     offset: {
-       x: (canvas.width - welcome_img.attr('width')*.8) * .5,
-       y: (canvas.height - welcome_img.attr('height')*.8) * .5
-     },
-     spread: 8,
-     loaded: function(shape){
-      if (shapes.loaded()){
-        renderer.start();
-       }
-     }
-   }));
-
    var process_img = $('img#process');
    shapes.add('process', new Shape({
      src: process_img.attr('src'),

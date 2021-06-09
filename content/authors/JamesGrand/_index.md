@@ -24,6 +24,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/james-grand-18590342/
+  - icon: cv
+    icon_pack: ai
+    link: uploads/CV_Grand.pdf
 organizations:
   - name: University of Maryland, College Park
     url: https://www.umd.edu/

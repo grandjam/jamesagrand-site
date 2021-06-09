@@ -31,7 +31,6 @@ design:
   <canvas id="canvas"></canvas>
 </div>
 <div class="images">
-	<img id="welcome" src="/uploads/homeBanner/banner_welcome.png" width="862" height="160"/>
   <img id="emerge" src="/uploads/homeBanner/banner_emergence.png" width="800" height="530"/>
   <img id="process" src="/uploads/homeBanner/banner_process.png" width="800" height="530"/>
   <img id="systemThinking" src="/uploads/homeBanner/banner_systemThinking.png" width="800" height="530"/>
