@@ -16,7 +16,7 @@ header:
   <div class = "row">
     <div class = "col-md-12">
       I am currently accepting applications for volunteer undergraduate research assistants for the Fall 2022 semester. Please review the information below on lab expectations and requirements, complete the lab application form, and someone from our lab will follow up to schedule a time to discuss opportunities.
-      <br><span style="font-weight: bold">Last updated: 5/25/21</span>
+      <br><span style="font-weight: bold">Last updated: 7/8/21</span>
     </div>
   </div>
 </div>

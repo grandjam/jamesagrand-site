@@ -287,6 +287,11 @@ article .page-subtitle {
     color: #fff;
   }
 }
+
+.dark #projects {
+  background-color: #222;
+}
+
 /* Cards */
 .projects-container {
   display: flex;
@@ -414,6 +419,10 @@ article .page-subtitle {
 #people .network-icon {
   margin-bottom: 0.7rem;
   font-size: 1rem;
+}
+
+.dark #people {
+  background-color: #222;
 }
 
 /* Projects Widget */
