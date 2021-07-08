@@ -26,7 +26,7 @@ header:
   <div class = "row">
       <div class = "col-md-12">
         I hope to recruit a new PhD student during the current application cycle (i.e., start date Fall 2022). However, I have not received approval to do so at this time. This means there is a possibility that I will NOT be reviewing prospective candidates this year, so please weigh this consideration in your decision to submit an application. I will update the status of my recruitment intentions as soon as I know more, so please check back at a later date.
-        <br><span style="font-weight: bold">Last updated: 5/25/21</span>
+        <br><span style="font-weight: bold">Last updated: 7/8/21</span>
       </div>
   </div>
 </div>
