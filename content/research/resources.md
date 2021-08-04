@@ -15,45 +15,57 @@ header:
 <div class = "lab-description">
   <div class = "row">
     <div class = "col-sm-9 lab-text">
-
-<h2 style = "margin-top:0">SPACE</h2>
-The Grand Lab is housed in a 520-square foot office suite on the third floor of the Biology-Psychology Building at the University of Maryland. The space is used for data collection, running computer simulations and computationally intensive analysis, holding meetings and virtual conferences, and to provide additional workspace for graduate and undergraduate student lab members. The space is divided into three separate rooms that allows multiple activities to run in parallel if needed.
+      <h2 style = "margin-top:0">SPACE</h2>
+      The Grand Lab is housed in a 520-square foot office suite on the third floor of the Biology-Psychology Building at the University of Maryland. The space is used for data collection, running computer simulations and computationally intensive analysis, holding meetings and virtual conferences, and to provide additional workspace for graduate and undergraduate student lab members. The space is divided into three separate rooms that allows multiple activities to run in parallel if needed.
     </div>
     <div class = "col-sm-3 lab-img">
-      <figure style = "margin-top: 1rem">
-      <img class = "zoomable-img" src="/research/labLayout-small.png" data-toggle = "modal" data-target = "#zoom-modal"/>
-      <figcaption class = "zoomable-caption">Click image to zoom</figcaption>
+      <figure style = "margin-top: 0rem">
+        <img class = "zoomable-img" src="/research/labLayout-small.png" data-toggle = "modal" data-target = "#zoom-modal" data-full-image = "/research/labLayout.png" data-modal-caption = "Lab space layout"/>
+        <figcaption class = "zoomable-caption">Click image to zoom</figcaption>
       </figure>
     </div>
   </div>
-  <!-- Modal -->
-  <div class = "modal fade" id = "zoom-modal" tabindex = "-1" role = "dialog" aria-hidden="true">
-    <div class="modal-dialog modal-lg" role="document">
-      <div class="modal-content">
-        <div class="modal-header">
-          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-            <span aria-hidden="true">×</span>
-          </button>
-        </div>
-        <div class="modal-body">
-          <figure>
-          <img class = "zoomed-img d-block w-100" src="/research/labLayout.png">
-          <figcaption class = "zoomed-caption">Lab layout</figcaption>
-          </figure>
-      </div>
+
+  <div class = "row">
+    <div class = "col-sm-8 lab-text">
+      <h3 style="margin-top: 0; font-style: italic">Computer lab</h3>
+      The largest room (~245-square feet) is set up for running computer-based experiments with individuals and teams. The room houses 13 password-protected, fully-networked computer workstations (Dell Optiplex 9020, i5-4590 Intel Quad Core processer @ 3.60GHz, 8GB DDR4 RAM, 1x500GB hard drive and 1x500GB SSD, 24” LCD monitor) along with an audio/visual display unit (60” LCD TV, externally mounted speakers) for delivering experimental instructions/trainings. Each computer is also equipped with a web camera capable of recording at 1080p resolution.
+    </div>
+    <div class = "col-sm-4 lab-img">
+      <figure style = "margin-top: 2rem">
+        <img class = "zoomable-img" src="/research/computerLab-small.png" data-toggle = "modal" data-target = "#zoom-modal" data-full-image = "/research/computerLab.png" data-modal-caption = "Main computer lab for individual and team data collections"/>
+        <figcaption class = "zoomable-caption">Click image to zoom</figcaption>
+      </figure>
     </div>
   </div>
+
+  <div class = "row">
+    <div class = "col-sm-8 lab-text">
+      <h3 style="margin-top: 1rem; font-style: italic">Hot-space</h3>
+      The second largest room (~158-square feet) contains tables and seating that can be organized into several configurations to allow face-to-face team interactions/data collections, larger group meetings, and interview/debriefing sessions. The space also includes a large whiteboard and an audio/visual display unit (55” LCD TV, externally mounted speakers) for presenting information, sharing screens, and drawing funny pictures.
+    </div>
+    <div class = "col-sm-4 lab-img">
+      <figure style = "margin-top: 2rem">
+        <img class = "zoomable-img" src="/research/hotSpace-small.png" data-toggle = "modal" data-target = "#zoom-modal" data-full-image = "/research/hotSpace.png" data-modal-caption = "Configurable hot-space for data collection, meetings, and debriefs"/>
+        <figcaption class = "zoomable-caption">Click image to zoom</figcaption>
+      </figure>
+    </div>
+  </div>
+
+  <div class = "row">
+    <div class = "col-sm-8 lab-text">
+      <h3 style="margin-top: 1rem; font-style: italic">Conference room</h3>
+      The final room (~104-square feet) serves as a video-conference enabled meeting room (55” LCD TV, externally mounted speakers, HD webcam/microphone) and lab control room. This space also houses a high-performance computer workstation (Dell Precision T7910, Dual Intel Xeon E5-2630 processers [32 cores @ 2.40GHz], 32GB DDR4 RAM, 2x1TB hard drives, 1x500GB SSD, 2GB dedicated graphics card, 2x28” LCD monitors) for modeling/simulation tasks, statistical analyses and visualizations, data storage/manipulation, and video coding/editing that require more demanding computational power. The high performance workstation is also configured to run up to 5 virtual machines/servers with dedicated IP addresses for hosting and managing networked team tasks from computers located both inside and outside the physical laboratory space.
+    </div>
+    <div class = "col-sm-4 lab-img">
+      <figure style = "margin-top: 2rem">
+        <img class = "zoomable-img" src="/research/conferenceRoom-small.png" data-toggle = "modal" data-target = "#zoom-modal" data-full-image = "/research/conferenceRoom.png" data-modal-caption = "Conference meeting and work area for high-performance computing">
+        <figcaption class = "zoomable-caption">Click image to zoom</figcaption>
+      </figure>
+    </div>
+  </div>
+  <hr>
 </div>
-
-<h3 style="margin-top: 0; font-style: italic">Computer lab</h3>
-The largest room (~245-square feet) is set up for running computer-based experiments with individuals and teams. The room houses 13 password-protected, fully-networked computer workstations (Dell Optiplex 9020, i5-4590 Intel Quad Core processer @ 3.60GHz, 8GB DDR4 RAM, 1x500GB hard drive and 1x500GB SSD, 24” LCD monitor) along with an audio/visual display unit (60” LCD TV, externally mounted speakers) for delivering experimental instructions/trainings. Each computer is also equipped with a web camera capable of recording at 1080p resolution.
-
-### *Hot-space*
-The second largest room (~158-square feet) contains tables and seating that can be organized into several configurations to allow face-to-face team interactions/data collections, larger group meetings, and interview/debriefing sessions. The space also includes a large whiteboard and an audio/visual display unit (55” LCD TV, externally mounted speakers) for presenting information, sharing screens, and drawing funny pictures.
-
-### *Conference room*
-The final room (~104-square feet) serves as a video-conference enabled meeting room (55” LCD TV, externally mounted speakers, HD webcam/microphone) and lab control room. This space also houses a high-performance computer workstation (Dell Precision T7910, Dual Intel Xeon E5-2630 processers [32 cores @ 2.40GHz], 32GB DDR4 RAM, 2x1TB hard drives, 1x500GB SSD, 2GB dedicated graphics card, 2x28” LCD monitors) for modeling/simulation tasks, statistical analyses and visualizations, data storage/manipulation, and video coding/editing that require more demanding computational power. The high performance workstation is also configured to run up to 5 virtual machines/servers with dedicated IP addresses for hosting and managing networked team tasks from computers located both inside and outside the physical laboratory space.
-<hr>
 
 ## EQUIPMENT
 The lab has several additional hardware components and software apps for conducting our research and carrying out project tasks by graduate students and undergraduate research assistants:
@@ -62,6 +74,7 @@ The lab has several additional hardware components and software apps for conduct
 - 15 audio headsets equipped with unidirectional microphones for delivering and recording audio during data collection
 - 8 wearable eye-tracking units ([PupilLabs Pupil Core](https://pupil-labs.com/products/core/)). The units can be connected through USB to either a computer or Android-enabled device to allow for the collection of eye tracking data in either fixed/stationary or mobile contexts. Each eye-tracking unit is equipped with 2 adjustable inward-facing eye cameras (200Hz @ 192x192px, 4.5ms latency) to record the user’s pupil and gaze direction, and 1 adjustable outward-facing scene camera (30Hz @ 1080p, 60Hz @720p, 120Hz @ 480p; 4.5ms latency) to record the user’s field of view (60° or 100°).
 - 5 Android devices (MotoZ, 128GB storage) for use with the wearable eye-tracking units to record/stream eye-tracking data in environments where direct connection to a computer is not feasible.
+
 ### *Software*
 - All lab computers are installed with or have access to standard Microsoft Office productivity and statistical software packages (e.g., SPSS, R). Additionally, the lab has access to many other helpful software apps through [University of Maryland TerpWare](https://terpware.umd.edu/Windows)
 - The wearable eye-tracking units are supplied with several open source software packages developed and maintained by the manufacturer for recording, processing, and analyzing eye-tracking data collected by the glasses. Additionally, the lab's high-performance workstation has access to [iMotions](https://imotions.com/), a modular software platform for simultaneously recording, processing, and analyzing data from multiple biometric sources. The lab currently has licenses for both the [eye-tracking](https://imotions.com/eye-tracking/) and [facial expression analysis](https://imotions.com/biosensor/fea-facial-expression-analysis/) iMotions modules. The eye-tracking module automates and provides resources for syncing multiple video feeds (e.g., eye and scene cameras across multiple individuals) as well as processing/computing pupilometry and gaze data (time/attention in areas of interest, etc.). The facial expression analysis module uses video of an individual’s facial features (e.g., brow motions, mouth orientation) and applies a proprietary algorithm to dynamically classify the probability of outwardly expressed emotions over time.
@@ -75,3 +88,20 @@ The [BSWIFT high performance computing cluster](https://oacs.umd.edu/oacs-cloud/
 
 The PI has access to a regulated and password-protected local area network drive (9TB) maintained in by full-time IT staff members in the Department of Psychology at the University of Maryland for data storage. Additionally, the University of Maryland provides faculty with unlimited cloud data storage through Box.
 
+<!-- Single-image modal code -->
+<div class = "modal fade" id = "zoom-modal" tabindex = "-1" role = "dialog" aria-hidden="true">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">×</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <figure>
+          <img class="zoomed-img d-block w-100" id = "imageZoom">
+          <figcaption class = "zoomed-caption">
+        </figure>
+    </div>
+  </div>
+</div>
