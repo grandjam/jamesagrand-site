@@ -74,6 +74,21 @@ figure .zoomable-img {
   font-size: .85rem;
 }
 
+.carousel-item {
+  img {
+    height: 60vw;
+    object-fit: contain;
+    margin: 0 0 1rem;
+
+    @media (min-width: 576px) {
+      height: 350px;
+    }
+  }
+  figcaption {
+    text-align: center;
+  }
+}
+
 /* List toggle */
 details {
   & > summary {

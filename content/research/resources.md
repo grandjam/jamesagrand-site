@@ -20,8 +20,8 @@ header:
     </div>
     <div class = "col-sm-3 lab-img">
       <figure style = "margin-top: 0rem">
-        <img class = "zoomable-img" src="/research/labLayout-small.png" data-toggle = "modal" data-target = "#zoom-modal" data-full-image = "/research/labLayout.png" data-modal-caption = "Lab space layout"/>
-        <figcaption class = "zoomable-caption">Click image to zoom</figcaption>
+        <img class = "zoomable-img" src="/research/photos/labLayout-small.png" data-toggle = "modal" data-target = "#zoom-modal" data-full-image = "/research/photos/labLayout.png" data-modal-caption = "Lab space layout"/>
+        <!-- <figcaption class = "zoomable-caption">Click image to zoom</figcaption> -->
       </figure>
     </div>
   </div>
@@ -33,8 +33,8 @@ header:
     </div>
     <div class = "col-sm-4 lab-img">
       <figure style = "margin-top: 2rem">
-        <img class = "zoomable-img" src="/research/computerLab-small.png" data-toggle = "modal" data-target = "#zoom-modal" data-full-image = "/research/computerLab.png" data-modal-caption = "Main computer lab for individual and team data collections"/>
-        <figcaption class = "zoomable-caption">Click image to zoom</figcaption>
+        <img class = "zoomable-img" src="/research/photos/computerLab-small.png" data-toggle = "modal" data-target = "#zoom-modal" data-full-image = "/research/photos/computerLab.png" data-modal-caption = "Main computer lab for individual and team data collections"/>
+        <!-- <figcaption class = "zoomable-caption">Click image to zoom</figcaption> -->
       </figure>
     </div>
   </div>
@@ -46,8 +46,8 @@ header:
     </div>
     <div class = "col-sm-4 lab-img">
       <figure style = "margin-top: 2rem">
-        <img class = "zoomable-img" src="/research/hotSpace-small.png" data-toggle = "modal" data-target = "#zoom-modal" data-full-image = "/research/hotSpace.png" data-modal-caption = "Configurable hot-space for data collection, meetings, and debriefs"/>
-        <figcaption class = "zoomable-caption">Click image to zoom</figcaption>
+        <img class = "zoomable-img" src="/research/photos/hotSpace-small.png" data-toggle = "modal" data-target = "#zoom-modal" data-full-image = "/research/photos/hotSpace.png" data-modal-caption = "Configurable hot-space for data collection, meetings, and debriefs"/>
+        <!-- <figcaption class = "zoomable-caption">Click image to zoom</figcaption> -->
       </figure>
     </div>
   </div>
@@ -59,8 +59,8 @@ header:
     </div>
     <div class = "col-sm-4 lab-img">
       <figure style = "margin-top: 2rem">
-        <img class = "zoomable-img" src="/research/conferenceRoom-small.png" data-toggle = "modal" data-target = "#zoom-modal" data-full-image = "/research/conferenceRoom.png" data-modal-caption = "Conference meeting and work area for high-performance computing">
-        <figcaption class = "zoomable-caption">Click image to zoom</figcaption>
+        <img class = "zoomable-img" src="/research/photos/conferenceRoom-small.png" data-toggle = "modal" data-target = "#zoom-modal" data-full-image = "/research/photos/conferenceRoom.png" data-modal-caption = "Conference meeting and work area for high-performance computing">
+        <!-- <figcaption class = "zoomable-caption">Click image to zoom</figcaption> -->
       </figure>
     </div>
   </div>
@@ -68,7 +68,7 @@ header:
 </div>
 
 ## EQUIPMENT
-The lab has several additional hardware components and software apps for conducting our research and carrying out project tasks by graduate students and undergraduate research assistants:
+The lab has several additional <a href = "#" data-toggle = "modal" data-target = "#carousel-modal">hardware components</a> and software apps for conducting our research and carrying out project tasks by graduate students and undergraduate research assistants:
 ### *Hardware/Peripherals*
 - 4 laptops (Dell Latitude 3490, i5-8250U Intel Quad Core processor @ 1.6GHz, 8GB DDR4 RAM, 256GB SSD). If needed, the laptops can be wirelessly connected to the laboratory network to increase the number of available computers for data collection.
 - 15 audio headsets equipped with unidirectional microphones for delivering and recording audio during data collection
@@ -100,8 +100,52 @@ The PI has access to a regulated and password-protected local area network drive
       <div class="modal-body">
         <figure>
           <img class="zoomed-img d-block w-100" id = "imageZoom">
-          <figcaption class = "zoomed-caption">
+          <figcaption class = "zoomed-caption"></figcaption>
         </figure>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Carousel modal code -->
+<div class = "modal fade" id = "carousel-modal" tabindex = "-1" role = "dialog" aria-hidden="true">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">×</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <div id = "carousel-images" class = "carousel slide" data-ride = "carousel" data-interval = "false">
+          <div class = "carousel-inner">
+            <div class = "carousel-item active">
+              <img class = "zoomed-img d-block w-100" src="/research/photos/laptops.png">
+              <figcaption>Dell Latitude 3490 laptops for data collection and RA use</figcaption>
+            </div>
+            <div class = "carousel-item">
+              <img class = "zoomed-img d-block w-100" src="/research/photos/headset.png">
+              <figcaption>Audio headsets with microphone for collecting individual and team interation data</figcaption>
+            </div>
+            <div class = "carousel-item">
+              <img class = "zoomed-img d-block w-100" src="/research/photos/eyeTracker.png">
+              <figcaption>PupilLabs Pupil Core wearable eye tracking units</figcaption>
+            </div>
+            <div class = "carousel-item">
+              <img class = "zoomed-img d-block w-100" src="/research/photos/motoPhone.png">
+              <figcaption>MotoZ Android Devices for collecting eye tracking data in mobile environments</figcaption>
+            </div>
+            <a class="carousel-control-prev" href="#carousel-images" role="button" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next" href="#carousel-images" role="button" data-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+            </a>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 </div>
