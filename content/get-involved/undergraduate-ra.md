@@ -11,31 +11,31 @@ header:
   caption: ""
   image: ""
 ---
-<!-- Accepting new undergraduate RAs -->
-<div class = "alert alert-success">
+<!-- ACCEPTING RAs -->
+<!-- <div class = "alert alert-success">
   <div class = "row">
     <div class = "col-md-12">
-      I am currently accepting applications for volunteer undergraduate research assistants for the Fall 2022 semester. Please review the information below on lab expectations and requirements, complete the lab application form, and someone from our lab will follow up to schedule a time to discuss opportunities.
-      <br><span style="font-weight: bold">Last updated: 7/8/21</span>
+      I am currently accepting applications for volunteer undergraduate research assistants. Please review the information below on lab expectations and requirements, complete the lab application form, and someone from our lab will follow up to schedule a time to discuss opportunities.
+      <br><span style="font-weight: bold">Last updated: 9/14/21</span>
     </div>
-  </div>
-</div>
-
-<!-- May be accepting new undergraduate RAs -->
-<!-- <div class = "alert alert-warning">
-  <div class = "row">
-      <div class = "col-md-12">
-        I don't currently have openings for additional undergraduate research assistants for the Fall 2022 semester. However, there is a possibility that additional research projects and/or needs may arise for which we could use assistance. If you'd like to be considered for those opportunities, please review the information below on lab expectations and requirements, complete the lab application form, and someone from our lab will contact should any opportunities arise.
-        <br><span style="font-weight: bold">Last updated: 5/25/21</span>
-      </div>
   </div>
 </div> -->
 
-<!-- Not accepting new undergraduate RAs -->
+<!-- MAYBE ACCEPTING RAs -->
+<div class = "alert alert-warning">
+  <div class = "row">
+      <div class = "col-md-12">
+        I don't currently have openings for additional undergraduate research assistants. However, there is a possibility that additional research projects and/or needs may arise for which we could use assistance. If you'd like to be considered for those opportunities, please review the information below on lab expectations and requirements, complete the lab application form, and someone from our lab will contact you should any opportunities arise.
+        <br><span style="font-weight: bold">Last updated: 9/14/21</span>
+      </div>
+  </div>
+</div>
+
+<!-- NOT ACCEPTING RAs -->
 <!-- <div class = "alert alert-danger">
   <div class = "row">
       <div class = "col-md-12">
-        I don't currently have openings for additional undergraduate research assistants and do not anticipate further opportunities to participate in the lab for the Fall 2022 semester. If you are interested in joining the lab at some point in the future, please check back after the current semester has ended and prior to the start of next semester.
+        I don't currently have openings for additional undergraduate research assistants and do not anticipate further opportunities to participate in the lab. If you are interested in joining the lab at some point in the future, please check back after the current semester has ended and prior to the start of next semester.
         <br><span style="font-weight: bold">Last updated: 5/25/21</span>
       </div>
   </div>

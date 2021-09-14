@@ -12,24 +12,24 @@ header:
   image: ""
 ---
 <!-- Accepting new graduate students -->
-<!-- <div class = "alert alert-success">
+<div class = "alert alert-success">
   <div class = "row">
     <div class = "col-md-12">
-      I will be recruiting a new PhD student during the current application cycle (i.e., start date Fall 2022). Please review the <a href="https://psyc.umd.edu/graduate/apply-admission" target="_blank" rel="noopener" style="font-weight: bold">instructions and requirements</a> for applying to the UMD Psychology Department PhD program.
-      <br><span style="font-weight: bold">Last updated: 5/25/21</span>
+      I intend to recruit a new PhD student during the current application cycle. Please review the material on this page for more information on my approach to evaluating prospective PhD candidates as well as the <a href="https://psyc.umd.edu/graduate/apply-admission" target="_blank" rel="noopener" style="font-weight: bold">instructions and requirements</a> for applying to the UMD Psychology Department PhD program.
+      <br><span style="font-weight: bold">Last updated: 9/14/21</span>
     </div>
   </div>
-</div> -->
+</div>
 
 <!-- Want to but not sure if accepting new graduate students -->
-<div class = "alert alert-warning">
+<!-- <div class = "alert alert-warning">
   <div class = "row">
       <div class = "col-md-12">
-        I hope to recruit a new PhD student during the current application cycle (i.e., start date Fall 2022). However, I have not received approval to do so at this time. This means there is a possibility that I will NOT be reviewing prospective candidates this year, so please weigh this consideration in your decision to submit an application. I will update the status of my recruitment intentions as soon as I know more, so please check back at a later date.
+        I hope to recruit a new PhD student during the current application cycle. However, I have not received approval to do so at this time. This means there is a possibility that I will NOT be reviewing prospective candidates this year, so please weigh this consideration in your decision to submit an application. I will update the status of my recruitment intentions as soon as I know more, so please check back at a later date.
         <br><span style="font-weight: bold">Last updated: 7/8/21</span>
       </div>
   </div>
-</div>
+</div> -->
 
 <!-- Not accepting new graduate students -->
 <!-- <div class = "alert alert-danger">
