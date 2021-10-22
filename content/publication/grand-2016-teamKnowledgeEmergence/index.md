@@ -13,6 +13,7 @@ authors:
 - GeorgiaChao
 tags: [Agent-based Modeling, Team Cognition]
 categories: [Complex Systems, Computational Modeling, Learning, Teams]
+inPress: false
 date: '2016-05-26'
 lastmod: 2021-05-13T23:47:04-04:00
 featured: true

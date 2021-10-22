@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Researches | James A. Grand</title>
+    <link>http://localhost:1313/research/</link>
+      <atom:link href="http://localhost:1313/research/index.xml" rel="self" type="application/rss+xml" />
+    <description>Researches</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021-2021 James A. Grand | [License and attributions](/license)</copyright><lastBuildDate>Tue, 18 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu2193968a47c7885e43f5996d5159098f_13299_512x512_fill_lanczos_center_2.png</url>
+      <title>Researches</title>
+      <link>http://localhost:1313/research/</link>
+    </image>
+    
+    <item>
+      <title>LAB RESOURCES</title>
+      <link>http://localhost:1313/research/resources/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/resources/</guid>
+      <description>&lt;hr&gt;
+&lt;div class = &#34;lab-description&#34;&gt;
+  &lt;div class = &#34;row&#34;&gt;
+    &lt;div class = &#34;col-sm-9 lab-text&#34;&gt;
+      &lt;h2 style = &#34;margin-top:0&#34;&gt;SPACE&lt;/h2&gt;
+      The Grand Lab is housed in a 520-square foot office suite on the third floor of the Biology-Psychology Building at the University of Maryland. The space is used for data collection, running computer simulations and computationally intensive analysis, holding meetings and virtual conferences, and to provide additional workspace for graduate and undergraduate student lab members. The space is divided into three separate rooms that allows multiple activities to run in parallel if needed.
+    &lt;/div&gt;
+    &lt;div class = &#34;col-sm-3 lab-img&#34;&gt;
+      &lt;figure style = &#34;margin-top: 0rem&#34;&gt;
+        &lt;img class = &#34;zoomable-img&#34; src=&#34;http://localhost:1313/research/photos/labLayout-small.png&#34; data-toggle = &#34;modal&#34; data-target = &#34;#zoom-modal&#34; data-full-image = &#34;/research/photos/labLayout.png&#34; data-modal-caption = &#34;Lab space layout&#34;/&gt;
+        &lt;!-- &lt;figcaption class = &#34;zoomable-caption&#34;&gt;Click image to zoom&lt;/figcaption&gt; --&gt;
+      &lt;/figure&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class = &#34;row&#34;&gt;
+    &lt;div class = &#34;col-sm-8 lab-text&#34;&gt;
+      &lt;h3 style=&#34;margin-top: 0; font-style: italic&#34;&gt;Computer lab&lt;/h3&gt;
+      The largest room (~245-square feet) is set up for running computer-based experiments with individuals and teams. The room houses 13 password-protected, fully-networked computer workstations (Dell Optiplex 9020, i5-4590 Intel Quad Core processer @ 3.60GHz, 8GB DDR4 RAM, 1x500GB hard drive and 1x500GB SSD, 24” LCD monitor) along with an audio/visual display unit (60” LCD TV, externally mounted speakers) for delivering experimental instructions/trainings. Each computer is also equipped with a web camera capable of recording at 1080p resolution.
+    &lt;/div&gt;
+    &lt;div class = &#34;col-sm-4 lab-img&#34;&gt;
+      &lt;figure style = &#34;margin-top: 2rem&#34;&gt;
+        &lt;img class = &#34;zoomable-img&#34; src=&#34;http://localhost:1313/research/photos/computerLab-small.png&#34; data-toggle = &#34;modal&#34; data-target = &#34;#zoom-modal&#34; data-full-image = &#34;/research/photos/computerLab.png&#34; data-modal-caption = &#34;Main computer lab for individual and team data collections&#34;/&gt;
+        &lt;!-- &lt;figcaption class = &#34;zoomable-caption&#34;&gt;Click image to zoom&lt;/figcaption&gt; --&gt;
+      &lt;/figure&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class = &#34;row&#34;&gt;
+    &lt;div class = &#34;col-sm-8 lab-text&#34;&gt;
+      &lt;h3 style=&#34;margin-top: 1rem; font-style: italic&#34;&gt;Hot-space&lt;/h3&gt;
+      The second largest room (~158-square feet) contains tables and seating that can be organized into several configurations to allow face-to-face team interactions/data collections, larger group meetings, and interview/debriefing sessions. The space also includes a large whiteboard and an audio/visual display unit (55” LCD TV, externally mounted speakers) for presenting information, sharing screens, and drawing funny pictures.
+    &lt;/div&gt;
+    &lt;div class = &#34;col-sm-4 lab-img&#34;&gt;
+      &lt;figure style = &#34;margin-top: 2rem&#34;&gt;
+        &lt;img class = &#34;zoomable-img&#34; src=&#34;http://localhost:1313/research/photos/hotSpace-small.png&#34; data-toggle = &#34;modal&#34; data-target = &#34;#zoom-modal&#34; data-full-image = &#34;/research/photos/hotSpace.png&#34; data-modal-caption = &#34;Configurable hot-space for data collection, meetings, and debriefs&#34;/&gt;
+        &lt;!-- &lt;figcaption class = &#34;zoomable-caption&#34;&gt;Click image to zoom&lt;/figcaption&gt; --&gt;
+      &lt;/figure&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class = &#34;row&#34;&gt;
+    &lt;div class = &#34;col-sm-8 lab-text&#34;&gt;
+      &lt;h3 style=&#34;margin-top: 1rem; font-style: italic&#34;&gt;Conference room&lt;/h3&gt;
+      The final room (~104-square feet) serves as a video-conference enabled meeting room (55” LCD TV, externally mounted speakers, HD webcam/microphone) and lab control room. This space also houses a high-performance computer workstation (Dell Precision T7910, Dual Intel Xeon E5-2630 processers [32 cores @ 2.40GHz], 32GB DDR4 RAM, 2x1TB hard drives, 1x500GB SSD, 2GB dedicated graphics card, 2x28” LCD monitors) for modeling/simulation tasks, statistical analyses and visualizations, data storage/manipulation, and video coding/editing that require more demanding computational power. The high performance workstation is also configured to run up to 5 virtual machines/servers with dedicated IP addresses for hosting and managing networked team tasks from computers located both inside and outside the physical laboratory space.
+    &lt;/div&gt;
+    &lt;div class = &#34;col-sm-4 lab-img&#34;&gt;
+      &lt;figure style = &#34;margin-top: 2rem&#34;&gt;
+        &lt;img class = &#34;zoomable-img&#34; src=&#34;http://localhost:1313/research/photos/conferenceRoom-small.png&#34; data-toggle = &#34;modal&#34; data-target = &#34;#zoom-modal&#34; data-full-image = &#34;/research/photos/conferenceRoom.png&#34; data-modal-caption = &#34;Conference meeting and work area for high-performance computing&#34;&gt;
+        &lt;!-- &lt;figcaption class = &#34;zoomable-caption&#34;&gt;Click image to zoom&lt;/figcaption&gt; --&gt;
+      &lt;/figure&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;hr&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;equipment&#34;&gt;EQUIPMENT&lt;/h2&gt;
+&lt;p&gt;The lab has several additional &lt;a href = &#34;#&#34; data-toggle = &#34;modal&#34; data-target = &#34;#carousel-modal&#34;&gt;hardware components&lt;/a&gt; and software apps for conducting our research and carrying out project tasks by graduate students and undergraduate research assistants:&lt;/p&gt;
+&lt;h3 id=&#34;hardwareperipherals&#34;&gt;&lt;em&gt;Hardware/Peripherals&lt;/em&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;4 laptops (Dell Latitude 3490, i5-8250U Intel Quad Core processor @ 1.6GHz, 8GB DDR4 RAM, 256GB SSD). If needed, the laptops can be wirelessly connected to the laboratory network to increase the number of available computers for data collection.&lt;/li&gt;
+&lt;li&gt;15 audio headsets equipped with unidirectional microphones for delivering and recording audio during data collection&lt;/li&gt;
+&lt;li&gt;8 wearable eye-tracking units (&lt;a href=&#34;https://pupil-labs.com/products/core/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PupilLabs Pupil Core&lt;/a&gt;). The units can be connected through USB to either a computer or Android-enabled device to allow for the collection of eye tracking data in either fixed/stationary or mobile contexts. Each eye-tracking unit is equipped with 2 adjustable inward-facing eye cameras (200Hz @ 192x192px, 4.5ms latency) to record the user’s pupil and gaze direction, and 1 adjustable outward-facing scene camera (30Hz @ 1080p, 60Hz @720p, 120Hz @ 480p; 4.5ms latency) to record the user’s field of view (60° or 100°).&lt;/li&gt;
+&lt;li&gt;5 Android devices (MotoZ, 128GB storage) for use with the wearable eye-tracking units to record/stream eye-tracking data in environments where direct connection to a computer is not feasible.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;software&#34;&gt;&lt;em&gt;Software&lt;/em&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;All lab computers are installed with or have access to standard Microsoft Office productivity and statistical software packages (e.g., SPSS, R). Additionally, the lab has access to many other helpful software apps through &lt;a href=&#34;https://terpware.umd.edu/Windows&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Maryland TerpWare&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The wearable eye-tracking units are supplied with several open source software packages developed and maintained by the manufacturer for recording, processing, and analyzing eye-tracking data collected by the glasses. Additionally, the lab&amp;rsquo;s high-performance workstation has access to &lt;a href=&#34;https://imotions.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;iMotions&lt;/a&gt;, a modular software platform for simultaneously recording, processing, and analyzing data from multiple biometric sources. The lab currently has licenses for both the &lt;a href=&#34;https://imotions.com/eye-tracking/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eye-tracking&lt;/a&gt; and &lt;a href=&#34;https://imotions.com/biosensor/fea-facial-expression-analysis/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;facial expression analysis&lt;/a&gt; iMotions modules. The eye-tracking module automates and provides resources for syncing multiple video feeds (e.g., eye and scene cameras across multiple individuals) as well as processing/computing pupilometry and gaze data (time/attention in areas of interest, etc.). The facial expression analysis module uses video of an individual’s facial features (e.g., brow motions, mouth orientation) and applies a proprietary algorithm to dynamically classify the probability of outwardly expressed emotions over time.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.norsys.com/netica.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Netica&lt;/a&gt; license for constructing and analyzing Bayesian belief networks&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pstnet.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;E-Prime 2.0 professional&lt;/a&gt; license for developing computer-based lab tasks&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.yoyogames.com/en/gamemaker&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gamemaker Studio 2&lt;/a&gt; license for developing individual and team-based online data collection tasks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;additional-resources&#34;&gt;ADDITIONAL RESOURCES&lt;/h2&gt;
+&lt;p&gt;The &lt;a href=&#34;https://oacs.umd.edu/oacs-cloud/bsos-high-performance-computing-cluster&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BSWIFT high performance computing cluster&lt;/a&gt; owned and maintained by the College of Behavioral &amp;amp; Social Sciences at the University of Maryland is availble to faculty and graduate students for conducting computationally demanding simulation and modeling tasks. The BWSIFT cluster contains 40 compute nodes with a total of 760 cores/CPUs. Compute nodes 1-30 contain a dual Intel X5650 6 core (2.66Ghz) processor with 12MB cache, 24GB RAM, and a 250GB hard disk. Compute nodes 31-40 contain dual Intel E5-2680 10 core/2 threads (2.8GHz) processor with 25MB cache, 256GB RAM, and 1TB hard disk. All nodes are connected via 10Gb Ethernet and Infiniband. Additionally, the BSWIFT cluster maintains 199TB of hard disk space for computations and mid-term storage and 10GB of personal user hard disk space that is password-protected and regularly backed-up. The &lt;a href=&#34;https://oacs.umd.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Office of Academic Computing Services&lt;/a&gt; at the University provides IT support for the BSWIFT cluster and its users.&lt;/p&gt;
+&lt;p&gt;The PI has access to a regulated and password-protected local area network drive (9TB) maintained in by full-time IT staff members in the Department of Psychology at the University of Maryland for data storage. Additionally, the University of Maryland provides faculty with unlimited cloud data storage through Box.&lt;/p&gt;
+&lt;!-- Single-image modal code --&gt;
+&lt;div class = &#34;modal fade&#34; id = &#34;zoom-modal&#34; tabindex = &#34;-1&#34; role = &#34;dialog&#34; aria-hidden=&#34;true&#34;&gt;
+  &lt;div class=&#34;modal-dialog modal-lg&#34; role=&#34;document&#34;&gt;
+    &lt;div class=&#34;modal-content&#34;&gt;
+      &lt;div class=&#34;modal-header&#34;&gt;
+        &lt;button type=&#34;button&#34; class=&#34;close&#34; data-dismiss=&#34;modal&#34; aria-label=&#34;Close&#34;&gt;
+          &lt;span aria-hidden=&#34;true&#34;&gt;×&lt;/span&gt;
+        &lt;/button&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;modal-body&#34;&gt;
+        &lt;figure&gt;
+          &lt;img class=&#34;zoomed-img d-block w-100&#34; id = &#34;imageZoom&#34;&gt;
+          &lt;figcaption class = &#34;zoomed-caption&#34;&gt;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- Carousel modal code --&gt;
+&lt;div class = &#34;modal fade&#34; id = &#34;carousel-modal&#34; tabindex = &#34;-1&#34; role = &#34;dialog&#34; aria-hidden=&#34;true&#34;&gt;
+  &lt;div class=&#34;modal-dialog modal-lg&#34; role=&#34;document&#34;&gt;
+    &lt;div class=&#34;modal-content&#34;&gt;
+      &lt;div class=&#34;modal-header&#34;&gt;
+        &lt;button type=&#34;button&#34; class=&#34;close&#34; data-dismiss=&#34;modal&#34; aria-label=&#34;Close&#34;&gt;
+          &lt;span aria-hidden=&#34;true&#34;&gt;×&lt;/span&gt;
+        &lt;/button&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;modal-body&#34;&gt;
+        &lt;div id = &#34;carousel-images&#34; class = &#34;carousel slide&#34; data-ride = &#34;carousel&#34; data-interval = &#34;false&#34;&gt;
+          &lt;div class = &#34;carousel-inner&#34;&gt;
+            &lt;div class = &#34;carousel-item active&#34;&gt;
+              &lt;img class = &#34;zoomed-img d-block w-100&#34; src=&#34;http://localhost:1313/research/photos/laptops.png&#34;&gt;
+              &lt;figcaption&gt;Dell Latitude 3490 laptops for data collection and RA use&lt;/figcaption&gt;
+            &lt;/div&gt;
+            &lt;div class = &#34;carousel-item&#34;&gt;
+              &lt;img class = &#34;zoomed-img d-block w-100&#34; src=&#34;http://localhost:1313/research/photos/headset.png&#34;&gt;
+              &lt;figcaption&gt;Audio headsets with microphone for collecting individual and team interation data&lt;/figcaption&gt;
+            &lt;/div&gt;
+            &lt;div class = &#34;carousel-item&#34;&gt;
+              &lt;img class = &#34;zoomed-img d-block w-100&#34; src=&#34;http://localhost:1313/research/photos/eyeTracker.png&#34;&gt;
+              &lt;figcaption&gt;PupilLabs Pupil Core wearable eye tracking units&lt;/figcaption&gt;
+            &lt;/div&gt;
+            &lt;div class = &#34;carousel-item&#34;&gt;
+              &lt;img class = &#34;zoomed-img d-block w-100&#34; src=&#34;http://localhost:1313/research/photos/motoPhone.png&#34;&gt;
+              &lt;figcaption&gt;MotoZ Android Devices for collecting eye tracking data in mobile environments&lt;/figcaption&gt;
+            &lt;/div&gt;
+            &lt;a class=&#34;carousel-control-prev&#34; href=&#34;#carousel-images&#34; role=&#34;button&#34; data-slide=&#34;prev&#34;&gt;
+              &lt;span class=&#34;carousel-control-prev-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/span&gt;
+              &lt;span class=&#34;sr-only&#34;&gt;Previous&lt;/span&gt;
+            &lt;/a&gt;
+            &lt;a class=&#34;carousel-control-next&#34; href=&#34;#carousel-images&#34; role=&#34;button&#34; data-slide=&#34;next&#34;&gt;
+              &lt;span class=&#34;carousel-control-next-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/span&gt;
+              &lt;span class=&#34;sr-only&#34;&gt;Next&lt;/span&gt;
+            &lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>RESEARCH OVERVIEW</title>
+      <link>http://localhost:1313/research/research-overview/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/research-overview/</guid>
+      <description>&lt;hr&gt;
+&lt;h2 id=&#34;interests--inspirations&#34;&gt;INTERESTS &amp;amp; INSPIRATIONS&lt;/h2&gt;
+&lt;p&gt;As an &lt;a href=&#34;https://en.wikipedia.org/wiki/Industrial_and_organizational_psychology&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;organizational psychologist&lt;/a&gt;, I am interested in developing basic knowledge about human cognition, affect, and behavior that can be used to improve the effectiveness and well-being of employees and organizations. My primary research interests within this context largely fall into two streams of activity:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Developing formal theories and evaluating evidence-based interventions for understanding and enhancing the effectiveness of teams and organizations&lt;/li&gt;
+&lt;li&gt;Developing and evaluating formal theories models of the psychological processes and situational factors that influence learning and assessment outcomes for individuals&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I am often inspired by and frequently draw upon ideas found in disciplines outside of organizational psychology in my research, including &lt;a href=&#34;https://en.wikipedia.org/wiki/Systems_theory&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;general systems theory&lt;/a&gt;, &lt;a href=&#34;https://en.wikipedia.org/wiki/Network_science&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;network science&lt;/a&gt;, &lt;a href=&#34;https://en.wikipedia.org/wiki/Computer_science&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;computer science&lt;/a&gt;, &lt;a href=&#34;https://en.wikipedia.org/wiki/Sociology&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;sociology&lt;/a&gt;, &lt;a href=&#34;https://en.wikipedia.org/wiki/Cognitive_psychology&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;cognitive psychology&lt;/a&gt;, and &lt;a href=&#34;https://en.wikipedia.org/wiki/Social_psychology&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;social psychology&lt;/a&gt;. Additionally&amp;ndash;or perhaps as a result&amp;ndash;I enjoy learning about and applying a variety of methodological/analytical techniques in my work (e.g., &lt;a href=&#34;https://en.wikipedia.org/wiki/Computer_simulation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;computational modeling&lt;/a&gt;, &lt;a href=&#34;https://en.wikipedia.org/wiki/Bayesian_statistics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bayesian modeling&lt;/a&gt;, &lt;a href=&#34;https://en.wikipedia.org/wiki/Network_science#Social_network_analysis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;network analyses&lt;/a&gt;, &lt;a href=&#34;https://en.wikipedia.org/wiki/Machine_learning&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;machine learning&lt;/a&gt;, behavioral trace data, eye tracking).&lt;/p&gt;
+&lt;p&gt;Beyond my interest in advancing basic research on these topics, I also devote considerable attention to working with and communicating my work to other non-psychology disciplines and outlets. In particular, I have worked closely with professionals and educators in health care and emergency medicine to develop training and assessment tools that target leadership, team functioning, and team effectiveness.&lt;/p&gt;
+&lt;h4 id=&#34;for-more-information-and-specific-examples-of-the-research-i-conduct-please-take-a-look-at-some-of-my-recent-projectsprojects-home-and-publicationspublication&#34;&gt;&lt;em&gt;For more information and specific examples of the research I conduct, please take a look at some of my recent &lt;a href=&#34;http://localhost:1313/projects-home&#34;&gt;projects&lt;/a&gt; and &lt;a href=&#34;http://localhost:1313/publication&#34;&gt;publications&lt;/a&gt;.&lt;/em&gt;&lt;/h4&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;research-philosophy&#34;&gt;RESEARCH PHILOSOPHY&lt;/h2&gt;
+&lt;p&gt;The sections below describe my core values, preferences, and beliefs regarding how I do my research. These statements are intended to convey both how I see myself as a scientist and the principles/practices I attempt to follow when engaging in all aspects of the research process. If you are interested in working with me as a student or a collaborator, this material should hopefully provide a good idea of what it might be like to work together. Additionally, if you are interested in developing a research philosophy statement of your own, you may like this &lt;a href=&#34;http://localhost:1313/publication/dougherty-2019-evaluatingresearch/&#34;&gt;paper&lt;/a&gt; written by my colleagues and I where we discuss the purpose and value of such a document.&lt;/p&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-0&#34;&gt;
+  &lt;summary&gt;Research Orientation&lt;/summary&gt;
+  &lt;p&gt;&lt;p&gt;A guiding principle of my scholarly activity is my belief in the significance of studying social and organizational phenomena as &lt;em&gt;complex systems&lt;/em&gt;. This perspective recognizes that the internal states (e.g., beliefs, knowledge, perceptions) and outward expressions (e.g., behaviors, decisions) of individuals shape and are shaped by interactions with our environment and those within it. Played out over time and across individuals, these psychological processes and their resultant consequences can coalesce into &lt;em&gt;emergent structures&lt;/em&gt; (e.g., temperaments, roles, relational networks) and &lt;em&gt;experienced patterns&lt;/em&gt; (e.g., norms, culture, beliefs) capable of influencing the way in which individuals feel, think, and act. These recurrent “micro↔macro” forces inherent in complex dynamic systems are meaningful and relevant for understanding virtually all psychological phenomena across nearly all levels of explanation (i.e., individuals, teams, multi-team systems, organizations, etc.).&lt;/p&gt;
+&lt;p&gt;Irrespective of its focal application, the critical point emphasized by this perspective is that scientific knowledge is advanced by attempting to precisely describe, document, and study the &lt;em&gt;generative processes&lt;/em&gt; that produce, sustain, and influence dynamic and emergent outcomes—or as Nobel Laureate and theoretical physicist Richard Feynman summarized: &lt;a href=&#34;https://digital.archives.caltech.edu/islandora/object/image%3A2545&#34;&gt;“What I cannot create, I do not understand.”&lt;/a&gt; Consequently, the research I conduct is directly motivated by (a) a desire to advance understanding of psychological phenomena from the perspective of &lt;em&gt;dynamic processes&lt;/em&gt; rather than &lt;em&gt;static effects&lt;/em&gt;; (b) advance, advocate for, and develop resources for methodologies that promote this perspective; and (c) contribute to foundational knowledge on substantive topics of interest from this perspective that can be leveraged to advance evidence-based solutions.&lt;/p&gt;
+&lt;hr&gt;
+&lt;/p&gt;
+&lt;/details&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-1&#34;&gt;
+  &lt;summary&gt;Professional Identity&lt;/summary&gt;
+  &lt;p&gt;I identify as a &lt;em&gt;scientist.&lt;/em&gt; To me, that means I derive my professional fulfillment from the pursuit of knowledge and efforts to better understand the natural world. The scientific community with which I am most closely affiliated and to whom I primarily contribute is the organizational sciences. However, I am inspired by and continually aspire to learn from several scientific communities, including the cognitive sciences, computer sciences, ecological sciences, planetary sciences, and applied physics/mathematics. It is important to me to devote time and effort into learning from scientific communities that are not my primary academic community as I believe it improves my scholarship, the questions I ask, and the methodologies I apply.&lt;/p&gt;
+&lt;hr&gt;&lt;/p&gt;
+&lt;/details&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-2&#34;&gt;
+  &lt;summary&gt;Scholarship&lt;/summary&gt;
+  &lt;p&gt;The broader philosophical orientation towards &lt;em&gt;process&lt;/em&gt; in my substantive research is reflected in how I carry out my scholarly activities. Much of my research embraces and seeks to contribute to principles of &lt;em&gt;computational social science&lt;/em&gt; that uses computational/quantitative modeling techniques to capture, analyze, and develop more rigorous, precise, and formal theories of social and organizational phenomena. Consequently, a significant thrust of my attention is directed towards basic theory development, validation, and advancing computational methodologies. Additionally, I also direct attention towards and participate in interdisciplinary collaborations on more applied research (primarily in emergency medicine and healthcare) that seeks to develop evidence-based solutions to “real world” issues.&lt;/p&gt;
+&lt;hr&gt;&lt;/p&gt;
+&lt;/details&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-3&#34;&gt;
+  &lt;summary&gt;Data Sources &amp;amp; Preferred Research Methodologies&lt;/summary&gt;
+  &lt;p&gt;The majority of data I collect for my research is original/primary source, though I also regularly make use of archival and simulated data as well. My research makes equal use of both laboratory (i.e., primarily college student populations) and field (i.e., working professionals) data. Furthermore, I strongly emphasize the collection of behavioral and/or observational data in all my research and, where applicable, longitudinal/within-unit data. Although perception/questionnaire-based data has a long and rich history in psychology, I believe that the organizational and social sciences relies too heavily on the use of cross-sectional, single-time point, and self-report survey methodologies. Consequently, much of my research relies on such data sources only for secondary/supplementary purposes.&lt;/p&gt;
+&lt;hr&gt;&lt;/p&gt;
+&lt;/details&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-4&#34;&gt;
+  &lt;summary&gt;Publication Goals &amp;amp; Preferences&lt;/summary&gt;
+  &lt;p&gt;For my research that is directed towards more “basic”/foundational knowledge, I typically prefer a more comprehensive publication strategy in which I present new (often computational) theory paired with one or more data sources designed to evaluate its core propositions. In my research that is directed towards more “applied”/evidence-based knowledge however, I typically prefer a more concise paper with a more tightly defined research foci and accompanying data. I generally prefer not to parse large datasets into multiple papers unless there is reasonable justification for doing so (e.g., paper would be too dense/large to effectively communicate all findings).&lt;/p&gt;
+&lt;hr&gt;&lt;/p&gt;
+&lt;/details&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-5&#34;&gt;
+  &lt;summary&gt;Robust Science Participation&lt;/summary&gt;
+  &lt;p&gt;I am an advocate of and participant in open science practices that place greater emphasis on &lt;em&gt;how&lt;/em&gt; research is accomplished (i.e., process) relative to its outcomes (i.e., publications, impact factors, citations). When I am not limited by either confidentiality or ethical concerns, I make every effort to share my research materials, data, and analyses using publicly accessible repositories (e.g., &lt;a href=&#34;https://osf.io/vcwg6/&#34;&gt;Open Science Framework&lt;/a&gt;, &lt;a href=&#34;https://github.com/grandjam&#34;&gt;GitHub&lt;/a&gt;) and this &lt;a href=&#34;http://localhost:1313/publication&#34;&gt;website&lt;/a&gt;. I believe an essential component of my job as a scientist is to create clear and useful documentation, comments/notes, and guides for other researchers related to my data, analyses, and models. Further, I believe that replication, reproducibility, and related efforts to minimize the potential for questionable research practices are imperative to the long-term health and success of science. Nevertheless, I am also a strong advocate for inductive and abductive research that promotes idea generation and stimulates new perspectives. To the extent such research is recognized, discussed, and presented as the impetus for knowledge generation rather than a confirmatory/deductive evaluation, I believe such efforts are absolutely critical to the scientific ecosystem and should be recognized for their importance.&lt;/p&gt;
+&lt;hr&gt;&lt;/p&gt;
+&lt;/details&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-6&#34;&gt;
+  &lt;summary&gt;Collaboration&lt;/summary&gt;
+  &lt;p&gt;I believe strongly in the power and effectiveness of “team” science; that is, the quality (and enjoyment!) of research is greatly improved through collaborative efforts among diverse and engaged scholars. Furthermore, I believe there are very few (if any) reasons why institutions or policies should exist that discourage engaging in productive collaborations with other researchers and/or practitioners, including previous mentors/advisors or students. My job is to contribute to the development of knowledge, understanding, and evidence-based solutions; to the extent one accomplishes this though rich collaborations, they should be fostered and encouraged. I generally prefer to maintain a relatively small (~6-8) rather than a large network of collaborators when conducting my research. I believe strongly in investing and reciprocating my time, effort, and resources into developing high quality collaborative partnerships and find I am able to accomplish this more effectively working in smaller groups.&lt;/p&gt;
+&lt;hr&gt;&lt;/p&gt;
+&lt;/details&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-7&#34;&gt;
+  &lt;summary&gt;Authorship&lt;/summary&gt;
+  &lt;p&gt;I attempt to adhere to the &lt;a href=&#34;https://www.apa.org/ethics/code&#34;&gt;American Psychological Association’s code of ethics (Section 8.12)&lt;/a&gt; regarding authorship that relies on an individual’s contribution for determining author order. That said, I also do not believe that authorship order is as significant as we make it out to be. I believe that science and the generation of valued knowledge is frequently an emergent product of team-based collaboration. Dissecting and seeking to reduce this “whole” into the “parts” that members contributed to is often difficult at best and counterproductive at worst. Furthermore, there are occasions in which I may “undervalue” my contribution to provide opportunities and/or voice to those who would likely benefit more from the normative recognition that comes with higher authorship. In particular, I rarely list myself ahead of my graduate students on any publications together unless they only contributed to the collection/analysis of data. I also strongly encourage and advocate for my students to publish their theses/dissertations without me listed as an author unless they would prefer otherwise.&lt;/p&gt;
+&lt;hr&gt;&lt;/p&gt;
+&lt;/details&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -10,6 +10,7 @@ authors:
 - JamesGrand
 tags: [Stereotypes]
 categories: [Careers]
+inPress: false
 date: '2008-01-01'
 lastmod: 2021-05-13T23:46:58-04:00
 featured: false

@@ -13,6 +13,7 @@ authors:
 - Scott Tonidandel
 tags: [Registered Reports, Results-blind Reviewing, Robust Science]
 categories: [Open Science]
+inPress: false
 date: '2018-07-18'
 lastmod: 2021-05-13T23:47:14-04:00
 featured: false

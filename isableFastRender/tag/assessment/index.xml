@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Assessment | James A. Grand</title>
+    <link>http://localhost:1313/tag/assessment/</link>
+      <atom:link href="http://localhost:1313/tag/assessment/index.xml" rel="self" type="application/rss+xml" />
+    <description>Assessment</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021-2021 James A. Grand | [License and attributions](/license)</copyright><lastBuildDate>Tue, 18 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu2193968a47c7885e43f5996d5159098f_13299_512x512_fill_lanczos_center_2.png</url>
+      <title>Assessment</title>
+      <link>http://localhost:1313/tag/assessment/</link>
+    </image>
+    
+    <item>
+      <title>Information processing accounts for situational judgment test responding</title>
+      <link>http://localhost:1313/project/sjt-response-process/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/sjt-response-process/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;From political leaders to CEOs to front-line employees, there is widespread recognition that the capacity to make effective decisions and accurate judgments is a sign of competence and expertise. For example, consider the following scenario and potential responses one might take:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;You and someone from another department are jointly responsible for coordinating a project involving both departments. The other person is not carrying out his share of the responsibilities. How would you deal with this situation?&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Discuss the situation with your manager and ask him to take it up with the other person&amp;rsquo;s manager.&lt;/li&gt;
+&lt;li&gt;Remind him that you need his help and that the project won&amp;rsquo;t be completed effectively without a full team effort from both of you.&lt;/li&gt;
+&lt;li&gt;Try to find out why he is not doing his share and explain to him that this creates more work for you and makes it harder to finish the project.&lt;/li&gt;
+&lt;li&gt;Get someone else from his department to help with the project.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Which of these actions do you believe would be most effective? Least effective? Why? How did your reach that conclusion? How would you interpret a person&amp;rsquo;s responses to this question?&lt;/p&gt;
+&lt;p&gt;The scenario and response options shown above is an example of an item that might be found on a &lt;em&gt;situational judgement test&lt;/em&gt; (SJT). SJTs most commonly present respondents with a series of scenarios that reflect possible circumstances, tasks, or decisions that might be experienced in a particular context. Each scenario is accompanied by a set of possible actions that the respondent is asked to evaluate and choose among. Because of their practical and predictive value, SJTs are commonly used in many personnel assessment contexts including selection and training evaluation. Nevertheless, there are many fundamental questions related to the use and design of SJTs. Perhaps most significantly, there is still uncertainty regarding how to interpret the meaning of &amp;ldquo;performance&amp;rdquo; on an SJT. Similar uncertainties exist regarding how the construction or presentation of an SJT item might influence respondents’ choices and subsequent interpretation of scores.&lt;/p&gt;
+&lt;p&gt;The main purpose and motivation of this research is to better understand the judgment and decision-making processes underlying SJT responding. Through studying the psychological mechanisms of SJT responding, I hope to provide insight and potential recommendations that can be used to inform the scoring, interpretation, and design of SJTs. To this end, I have proposed a formal theory and computational model of what I believe represents the cognitive processes used by respondents to answer SJT items known as SiRJ (&lt;strong&gt;Si&lt;/strong&gt;tuated &lt;strong&gt;R&lt;/strong&gt;easoning and &lt;strong&gt;J&lt;/strong&gt;udgment). Simulation studies conducted with the model reveal considerable correspondence with existing empirical evidence. I have also gathered additional data using eye tracking that provides further support for several of the model&amp;rsquo;s predictions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Assessing leadership behavior through forced choice measures</title>
+      <link>http://localhost:1313/project/destructive-leadership-measure/</link>
+      <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/destructive-leadership-measure/</guid>
+      <description>&lt;h2 id=&#34;funding-sources&#34;&gt;Funding Sources&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ari.altess.army.mil/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Army Research Institute for the Behavioral and Social Sciences&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Award #: W911NF-18-2-0049&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;key-collaborators&#34;&gt;Key Collaborators&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://hangeslab.umd.edu/about/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paul Hanges&lt;/a&gt; (Univ of Maryland)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://psychology.usf.edu/faculty/sestark/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Steve Stark&lt;/a&gt; (Univ of South Florida)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;Historically, researchers have focused on positive leadership attributes; attributes believed to lead to organizational and follower effectiveness. The underlying assumption inherent in this research was that dysfunctional leadership was the absence of effective leadership. This changed, however, around the turn of the millennium, when organizational science began to directly focus on negative leadership styles. Various negative styles such as abusive supervision, destructive leadership, toxic leadershi, and petty tyranny (among otheres) have since been identified and scales measuring these constructs designed.&lt;/p&gt;
+&lt;p&gt;However, one difficulty when having respondents rate such undesirable behavior is that obtained scores are more prone to distortion from socially desirable responding. Forced-choice methodologies have been proposed as one promising method for reducing social desirability bias in scale scores. Specifically, forced-choice formats consist of sets of statements which have been matched in terms of social desirability from which respondents must choose one statement that is most characteristic of themselves or a focal target (e.g., a leader, a team member, etc.). Although useful for reducing certain response biases, conventional methods for scoring forced-choice scales cannot be used as they provide ipsative or partially ipsative data (i.e., total score on measure is constant for all examinees). Consequently, an alternative model for evaluating forced-choice data based on an ideal-point IRT model is recommended to produce scores that can be meaningfully used to differentiate between individuals. Unfortunately, a significant challenge in creating forced-choice instruments is writing items that conform to the ideal-point model. For example, recent work has demonstrated that items tend to conform to the ideal-point model if they describe typical or average level of behavior or if the items are double-barreled, but there is little guidance on how to appropriately construct and scale these items across a continuum. Consequently, to realize the full benefits of forced-choice data based on ideal-point responding, there is a notable need for research on the nature of forced-choice responding that can be used to inform better test construction practices.&lt;/p&gt;
+&lt;p&gt;Our research attempted to address this need in the context of leadership assessment. By proposing and applying a &lt;em&gt;psychological&lt;/em&gt; model of the proposed response processes used by individuals when making selections to forced-choice items, we developed a large bank of forced-choice items relevant to assessing both positive and negative aspects of leadership behavior that would better conform to an ideal-point model. We next conducted several empirical studies to establish the construct validity of our forced-choice scales and compare it to existing Likert-based scales of destructive leadership. Results revealed that our forced-choice scale demonstrated substantially lower method bias, strong convergent and discriminant validity, and was significantly correlated with respondents&#39; reports of counterproductive work behaivors. A publicly accessible website for scoring the forced-choice scale was also created to facilitate the use of the measure by interested researchers and practitioners.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -17,6 +17,7 @@ authors:
 - RoseFernandez
 tags: [Healthcare, Leadership, Stereotypes]
 categories: [Bayesian Statistics, Teams]
+inPress: false
 date: '2021-02-01'
 lastmod: 2021-05-13T23:47:21-04:00
 featured: false

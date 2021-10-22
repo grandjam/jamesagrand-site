@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michael T. Braun | James A. Grand</title>
+    <link>http://localhost:1313/authors/michaelbraun/</link>
+      <atom:link href="http://localhost:1313/authors/michaelbraun/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michael T. Braun</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021-2021 James A. Grand | [License and attributions](/license)</copyright><lastBuildDate>Thu, 26 May 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/authors/michaelbraun/avatar_hu249977b00c309e9aabdc5e6b3f75a76c_22398_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Michael T. Braun</title>
+      <link>http://localhost:1313/authors/michaelbraun/</link>
+    </image>
+    
+    <item>
+      <title>The dynamics of team cognition: A process-oriented theory of knowledge emergence in teams</title>
+      <link>http://localhost:1313/publication/grand-2016-teamknowledgeemergence/</link>
+      <pubDate>Thu, 26 May 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/grand-2016-teamknowledgeemergence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Capturing the multilevel dynamics of emergence: Computational modeling, simulation, and virtual experimentation</title>
+      <link>http://localhost:1313/publication/kozlowski-2016-capturingdynamicsofemergence/</link>
+      <pubDate>Fri, 05 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/kozlowski-2016-capturingdynamicsofemergence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advancing multilevel research design: Capturing the dynamics of emergence</title>
+      <link>http://localhost:1313/publication/kozlowski-2013-multilevelresearchdesign/</link>
+      <pubDate>Tue, 25 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/kozlowski-2013-multilevelresearchdesign/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -12,6 +12,7 @@ authors:
 - GoranKuljanin
 tags: [Emergence, Multilevel Theory, Research Methods]
 categories: [Complex Systems, Computational Modeling]
+inPress: false
 date: '2013-06-25'
 lastmod: 2021-05-13T23:46:57-04:00
 featured: false

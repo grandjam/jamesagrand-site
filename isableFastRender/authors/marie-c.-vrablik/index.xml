@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marie C. Vrablik | James A. Grand</title>
+    <link>http://localhost:1313/authors/marie-c.-vrablik/</link>
+      <atom:link href="http://localhost:1313/authors/marie-c.-vrablik/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marie C. Vrablik</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021-2021 James A. Grand | [License and attributions](/license)</copyright><lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu2193968a47c7885e43f5996d5159098f_13299_512x512_fill_lanczos_center_2.png</url>
+      <title>Marie C. Vrablik</title>
+      <link>http://localhost:1313/authors/marie-c.-vrablik/</link>
+    </image>
+    
+    <item>
+      <title>Does team leader gender matter? A Bayesian reconciliation of leadership and patient care during trauma resuscitations</title>
+      <link>http://localhost:1313/publication/rosenman-2021-genderleadershipresuscitation/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rosenman-2021-genderleadershipresuscitation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation-based team leadership training improves team leadership during actual trauma resuscitations: A randomized controlled trial</title>
+      <link>http://localhost:1313/publication/fernandez-2020-medteamleadershiptraining/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/fernandez-2020-medteamleadershiptraining/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

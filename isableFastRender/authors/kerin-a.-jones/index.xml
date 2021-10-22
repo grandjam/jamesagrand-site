@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kerin A. Jones | James A. Grand</title>
+    <link>http://localhost:1313/authors/kerin-a.-jones/</link>
+      <atom:link href="http://localhost:1313/authors/kerin-a.-jones/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kerin A. Jones</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021-2021 James A. Grand | [License and attributions](/license)</copyright><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu2193968a47c7885e43f5996d5159098f_13299_512x512_fill_lanczos_center_2.png</url>
+      <title>Kerin A. Jones</title>
+      <link>http://localhost:1313/authors/kerin-a.-jones/</link>
+    </image>
+    
+    <item>
+      <title>Development and empirical testing of a novel team leadership assessment measure: A pilot study using simulated and live patient encounters</title>
+      <link>http://localhost:1313/publication/rosenman-2019-teamleadershipassessment/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rosenman-2019-teamleadershipassessment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A simulation-based approach to measuring team situational awareness in emergency medicine: a multicenter, observational study</title>
+      <link>http://localhost:1313/publication/rosenman-2018-teamsituationalawarnessassessment/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rosenman-2018-teamsituationalawarnessassessment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of a computer-based educational intervention to improve medical teamwork and performance during simulated patient resuscitations</title>
+      <link>http://localhost:1313/publication/fernandez-2013-medteamsteamworktraining/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/fernandez-2013-medteamsteamworktraining/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

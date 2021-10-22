@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PUBLICATIONS | James A. Grand</title>
+    <link>http://localhost:1313/publication/</link>
+      <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>PUBLICATIONS</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021-2021 James A. Grand | [License and attributions](/license)</copyright><lastBuildDate>Tue, 01 Jun 9999 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu2193968a47c7885e43f5996d5159098f_13299_512x512_fill_lanczos_center_2.png</url>
+      <title>PUBLICATIONS</title>
+      <link>http://localhost:1313/publication/</link>
+    </image>
+    
+    <item>
+      <title>Promoting robust and reliable big data research in psychology</title>
+      <link>http://localhost:1313/publication/strauss-2020-robustbigdataresearch/</link>
+      <pubDate>Tue, 01 Jun 9999 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/strauss-2020-robustbigdataresearch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Does team leader gender matter? A Bayesian reconciliation of leadership and patient care during trauma resuscitations</title>
+      <link>http://localhost:1313/publication/rosenman-2021-genderleadershipresuscitation/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rosenman-2021-genderleadershipresuscitation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A general response process theory for situational judgment tests</title>
+      <link>http://localhost:1313/publication/grand-2020-sirjtheory/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/grand-2020-sirjtheory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation-based team leadership training improves team leadership during actual trauma resuscitations: A randomized controlled trial</title>
+      <link>http://localhost:1313/publication/fernandez-2020-medteamleadershiptraining/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/fernandez-2020-medteamleadershiptraining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring women&#39;s leadership labyrinth: Effects of hiring and developmental opportunities on gender stratification</title>
+      <link>http://localhost:1313/publication/samuelson-2019-genderstratificationmodel/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/samuelson-2019-genderstratificationmodel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development and empirical testing of a novel team leadership assessment measure: A pilot study using simulated and live patient encounters</title>
+      <link>http://localhost:1313/publication/rosenman-2019-teamleadershipassessment/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rosenman-2019-teamleadershipassessment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Making research evaluation more transparent: Aligning research philosophy, departmental values, and reporting</title>
+      <link>http://localhost:1313/publication/dougherty-2019-evaluatingresearch/</link>
+      <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dougherty-2019-evaluatingresearch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From outcome to process focus: Fostering a more robust psychological science through registered reports and results-blind reviewing</title>
+      <link>http://localhost:1313/publication/grand-2018-registeredreportsresultsblindreviewing/</link>
+      <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/grand-2018-registeredreportsresultsblindreviewing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A simulation-based approach to measuring team situational awareness in emergency medicine: a multicenter, observational study</title>
+      <link>http://localhost:1313/publication/rosenman-2018-teamsituationalawarnessassessment/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rosenman-2018-teamsituationalawarnessassessment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Changing systems through effective teams: A role for simulation</title>
+      <link>http://localhost:1313/publication/rosenman-2018-changingsystemsthroughteams/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rosenman-2018-changingsystemsthroughteams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A systems-based approach to fostering robust science in industrial-organizational psychology</title>
+      <link>http://localhost:1313/publication/grand-2018-systemsapproachtorobustscience/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/grand-2018-systemsapproachtorobustscience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Randomised controlled trial to assess the effect of a Just-in-Time training on procedural performance: A proof-of-concept study to address procedural skill decay</title>
+      <link>http://localhost:1313/publication/branzetti-2017-jit_training/</link>
+      <pubDate>Tue, 17 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/branzetti-2017-jit_training/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>&#34;Life doesn&#39;t happen at the between-person level,&#34; or a cautionary note on generating scientific inferences through meta-analyses</title>
+      <link>http://localhost:1313/publication/samuelson-2017-metaanalysisscientificinference/</link>
+      <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/samuelson-2017-metaanalysisscientificinference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Culture and testing practices: Is the world flat?</title>
+      <link>http://localhost:1313/publication/ryan-2017-crossculturaltestingpractices/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ryan-2017-crossculturaltestingpractices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Situating ethical behavior in the nomological network of job performance</title>
+      <link>http://localhost:1313/publication/russell-2017-ethicalperformance/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/russell-2017-ethicalperformance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using simulation as an investigational methodology to explore the impact of technology on team communication and patient management: A pilot evaluation of the effect of an automated compression device</title>
+      <link>http://localhost:1313/publication/gittinger-2017-techeffectsonteamcommunication/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/gittinger-2017-techeffectsonteamcommunication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developing team cognition: A role for simulation</title>
+      <link>http://localhost:1313/publication/fernandez-2017-developingteamcognition/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/fernandez-2017-developingteamcognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brain drain? An examination of stereotype threat effects during training on knowledge acquisition and organizational effectiveness</title>
+      <link>http://localhost:1313/publication/grand-2017-stereotypethreateffectsonlearning/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/grand-2017-stereotypethreateffectsonlearning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The dynamics of team cognition: A process-oriented theory of knowledge emergence in teams</title>
+      <link>http://localhost:1313/publication/grand-2016-teamknowledgeemergence/</link>
+      <pubDate>Thu, 26 May 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/grand-2016-teamknowledgeemergence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Capturing the multilevel dynamics of emergence: Computational modeling, simulation, and virtual experimentation</title>
+      <link>http://localhost:1313/publication/kozlowski-2016-capturingdynamicsofemergence/</link>
+      <pubDate>Fri, 05 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/kozlowski-2016-capturingdynamicsofemergence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leveraging social science-healthcare collaborations to improve teamwork and patient safety</title>
+      <link>http://localhost:1313/publication/fernandez-2015-socscihealthcarecollaborations/</link>
+      <pubDate>Tue, 10 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/fernandez-2015-socscihealthcarecollaborations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teams, teamwork, and team effectiveness: Implications for human systems integration.</title>
+      <link>http://localhost:1313/publication/kozlowski-2015-teameffectivenesshsi/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/kozlowski-2015-teameffectivenesshsi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trends in testing: Highlights of a global survey</title>
+      <link>http://localhost:1313/publication/ryan-2015-globaltestingtrends/</link>
+      <pubDate>Fri, 15 May 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ryan-2015-globaltestingtrends/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An examination of common sensitivity review practices in test development</title>
+      <link>http://localhost:1313/publication/golubovich-2014-sensitivityreviewpractices/</link>
+      <pubDate>Tue, 18 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/golubovich-2014-sensitivityreviewpractices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of a computer-based educational intervention to improve medical teamwork and performance during simulated patient resuscitations</title>
+      <link>http://localhost:1313/publication/fernandez-2013-medteamsteamworktraining/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/fernandez-2013-medteamsteamworktraining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eight basic principles for adaptability training in synthetic learning environments</title>
+      <link>http://localhost:1313/publication/grand-2017-adaptabilitytrainingprinciples/</link>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/grand-2017-adaptabilitytrainingprinciples/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advancing multilevel research design: Capturing the dynamics of emergence</title>
+      <link>http://localhost:1313/publication/kozlowski-2013-multilevelresearchdesign/</link>
+      <pubDate>Tue, 25 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/kozlowski-2013-multilevelresearchdesign/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The detection and influence of problematic item content in ability tests: An examination of sensitivity review practices for personnel selection test development</title>
+      <link>http://localhost:1313/publication/grand-2013-signaldetectionofproblematicitems/</link>
+      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/grand-2013-signaldetectionofproblematicitems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A measure of and predictors for veterinarian trust developed with veterinary students in a simulated companion animal practice</title>
+      <link>http://localhost:1313/publication/grand-2013-veterinariantrust/</link>
+      <pubDate>Fri, 01 Feb 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/grand-2013-veterinariantrust/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Going DEEP: guidelines for building simulation-based team assessments</title>
+      <link>http://localhost:1313/publication/grand-2013-deepguildelinesforsimassessments/</link>
+      <pubDate>Fri, 25 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/grand-2013-deepguildelinesforsimassessments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How far does stereotype threat reach? The potential detriment of face validity in cognitive ability testing</title>
+      <link>http://localhost:1313/publication/grand-2010-facevalidityeffects/</link>
+      <pubDate>Fri, 21 May 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/grand-2010-facevalidityeffects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Career and work implications of the model minority myth and other stereotypes for Asian Americans</title>
+      <link>http://localhost:1313/publication/leong-2008-modelminoritymyth/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/leong-2008-modelminoritymyth/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

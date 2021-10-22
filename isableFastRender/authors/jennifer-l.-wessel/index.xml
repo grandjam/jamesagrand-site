@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jennifer L. Wessel | James A. Grand</title>
+    <link>http://localhost:1313/authors/jennifer-l.-wessel/</link>
+      <atom:link href="http://localhost:1313/authors/jennifer-l.-wessel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jennifer L. Wessel</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021-2021 James A. Grand | [License and attributions](/license)</copyright><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu2193968a47c7885e43f5996d5159098f_13299_512x512_fill_lanczos_center_2.png</url>
+      <title>Jennifer L. Wessel</title>
+      <link>http://localhost:1313/authors/jennifer-l.-wessel/</link>
+    </image>
+    
+    <item>
+      <title>Exploring women&#39;s leadership labyrinth: Effects of hiring and developmental opportunities on gender stratification</title>
+      <link>http://localhost:1313/publication/samuelson-2019-genderstratificationmodel/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/samuelson-2019-genderstratificationmodel/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

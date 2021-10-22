@@ -8,6 +8,7 @@ authors:
 - JamesGrand
 tags: [Situational Judgment Tests]
 categories: [Bayesian Statistics, Computational Modeling, Judgment/Decision-Making, Testing/Assessment]
+inPress: false
 date: '2020-08-01'
 lastmod: 2021-05-13T23:47:19-04:00
 featured: true

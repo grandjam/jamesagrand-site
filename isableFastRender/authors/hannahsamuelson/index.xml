@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hannah L. Samuelson | James A. Grand</title>
+    <link>http://localhost:1313/authors/hannahsamuelson/</link>
+      <atom:link href="http://localhost:1313/authors/hannahsamuelson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hannah L. Samuelson</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021-2021 James A. Grand | [License and attributions](/license)</copyright><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/authors/hannahsamuelson/avatar_hua49f92cb484c8188ce72206746bd8b11_18694_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Hannah L. Samuelson</title>
+      <link>http://localhost:1313/authors/hannahsamuelson/</link>
+    </image>
+    
+    <item>
+      <title>Exploring women&#39;s leadership labyrinth: Effects of hiring and developmental opportunities on gender stratification</title>
+      <link>http://localhost:1313/publication/samuelson-2019-genderstratificationmodel/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/samuelson-2019-genderstratificationmodel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>&#34;Life doesn&#39;t happen at the between-person level,&#34; or a cautionary note on generating scientific inferences through meta-analyses</title>
+      <link>http://localhost:1313/publication/samuelson-2017-metaanalysisscientificinference/</link>
+      <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/samuelson-2017-metaanalysisscientificinference/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

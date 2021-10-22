@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniel R. Ilgen | James A. Grand</title>
+    <link>http://localhost:1313/authors/daniel-r.-ilgen/</link>
+      <atom:link href="http://localhost:1313/authors/daniel-r.-ilgen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Daniel R. Ilgen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021-2021 James A. Grand | [License and attributions](/license)</copyright><lastBuildDate>Fri, 01 Feb 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu2193968a47c7885e43f5996d5159098f_13299_512x512_fill_lanczos_center_2.png</url>
+      <title>Daniel R. Ilgen</title>
+      <link>http://localhost:1313/authors/daniel-r.-ilgen/</link>
+    </image>
+    
+    <item>
+      <title>A measure of and predictors for veterinarian trust developed with veterinary students in a simulated companion animal practice</title>
+      <link>http://localhost:1313/publication/grand-2013-veterinariantrust/</link>
+      <pubDate>Fri, 01 Feb 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/grand-2013-veterinariantrust/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

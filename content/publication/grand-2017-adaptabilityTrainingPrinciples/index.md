@@ -9,6 +9,7 @@ authors:
 - SteveKozlowski
 tags: [Adaptability]
 categories: [Learning, Training]
+inPress: false
 date: '2013-08-01'
 lastmod: 2021-05-13T23:47:16-04:00
 featured: false

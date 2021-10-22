@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computational Modeling | James A. Grand</title>
+    <link>http://localhost:1313/tag/computational-modeling/</link>
+      <atom:link href="http://localhost:1313/tag/computational-modeling/index.xml" rel="self" type="application/rss+xml" />
+    <description>Computational Modeling</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021-2021 James A. Grand | [License and attributions](/license)</copyright><lastBuildDate>Tue, 18 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu2193968a47c7885e43f5996d5159098f_13299_512x512_fill_lanczos_center_2.png</url>
+      <title>Computational Modeling</title>
+      <link>http://localhost:1313/tag/computational-modeling/</link>
+    </image>
+    
+    <item>
+      <title>Computational architecture for studying team-based systems</title>
+      <link>http://localhost:1313/project/team-system-model/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/team-system-model/</guid>
+      <description>&lt;h2 id=&#34;funding-sources&#34;&gt;Funding Sources&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ari.altess.army.mil/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Army Research Institute for the Behavioral and Social Sciences&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Award #: W911NF-14-1-0026&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;key-collaborators&#34;&gt;Key Collaborators&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/authors/michaelbraun/&#34;&gt;Mike Braun&lt;/a&gt; (DePaul University)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/authors/gorankuljanin/&#34;&gt;Goran Kuljanin&lt;/a&gt; (DePaul University)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/authors/stevekozlowski/&#34;&gt;Steve Kozlowski&lt;/a&gt; (Univ of South Florida)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/authors/georgiachao/&#34;&gt;Georgia Chao&lt;/a&gt; (Univ of South Florida)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;The modern work environment in which organizations operate has continued its trajectory towards increasingly more complex and interdependent task demands that require rapid, flexible, and adaptive responses to the unexpected. In response, a world-wide restructuring of work around teams has occurred. As teams have become the dominant unit of work, team-based systems composed of teams of teams have also begun to emerge as a new organizational form (e.g., multiteam systems, MTSs). Managing and enhancing those facets that contribute to the effectiveness of teams and team-based systems depends on understanding the dynamic forces which influence how individuals within and between teams combine their efforts to successfully fulfill task demands in uncertain environments.&lt;/p&gt;
+&lt;p&gt;In this stream of research, my colleageus and I have sought to develop a highly flexible and generalizable architecture for building, integrating, and testing theory related to team and team-based system effectiveness. Our work is deeply rooted in the principles of complex adaptive systems and adopts the perspective that collective functioning is an emergent property of the behaviors, choices, and perceptions of individual members of the collective; their relational interactions and influences; and the social and task environments in which those individuals operate. To this end, our research group has advanced a scalable and integrative agent-based model that allows us to represent various attributes and decision processes of individual team members, task demands, and the formation of interpersonal perceptions and influence that can affect interaction.&lt;/p&gt;
+&lt;p&gt;We have conducted numerous simulation studies with the model to evaluate its correspondence with existing research/theory as well as probe and reveal insights into several compelling questions. For example:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;How does the composition of a team (i.e., the constellation of skills, demographics, dispostional attributes, etc.) affect the emergence of cohesion, influence, and performance under different task environments?&lt;/li&gt;
+&lt;li&gt;Can a team be more (or less) than the sum of its parts?&lt;/li&gt;
+&lt;li&gt;How and in what ways can a single individual influence an entire collective?&lt;/li&gt;
+&lt;li&gt;When can maximizing the performance of a single team come at the expense of overall system performance in a MTS?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;In our ongoing research, we aim to extend the architecture to permit more fluid team-based systems (e.g., changing team memberships), more variable task environments (e.g., unexpected changes), and more robust mechanisms for representing individual/system adaptation (e.g., goal systems).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Emergence of collective and distributed knowledge in teams</title>
+      <link>http://localhost:1313/project/team-knowledge-emergence/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/team-knowledge-emergence/</guid>
+      <description>&lt;h2 id=&#34;funding-sources&#34;&gt;Funding Sources&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.onr.navy.mil/en/Science-Technology/Departments/Code-34/All-Programs/human-bioengineered-systems-341/command-decision-making&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Office of Naval Research, Command Decision Making Program&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Award #: N00014-09-1-0519&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ari.altess.army.mil/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Army Research Institute for the Behavioral and Social Sciences&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Award #: W911NF-14-1-0026&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;key-collaborators&#34;&gt;Key Collaborators&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/authors/michaelbraun/&#34;&gt;Mike Braun&lt;/a&gt; (DePaul University)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/authors/gorankuljanin/&#34;&gt;Goran Kuljanin&lt;/a&gt; (DePaul University)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/authors/stevekozlowski/&#34;&gt;Steve Kozlowski&lt;/a&gt; (Univ of South Florida)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/authors/georgiachao/&#34;&gt;Georgia Chao&lt;/a&gt; (Univ of South Florida)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;Since the concept of team cognition was first proposed and popularized in the organizational sciences, a great deal of theory and empirical research has accumulated examining its impact on team functioning and effectiveness. Although there are now numerous different conceptulations of team cognitio, the concept has most commonly been examined from the perspective of shared &lt;em&gt;mental models&lt;/em&gt; (extent to which individual members of a team hold similar cogntiive representations of the team and its task) and &lt;em&gt;transactive memory systems&lt;/em&gt; (extent to which collectively relevant knowledge about the team and its task is distributed across yet accessible to individual members). There is sufficient meta-analytic evidence to suggest that both conceptualizations of team cognition are important to the performance and decision quality of teams. However, a coherent understanding of &lt;em&gt;how&lt;/em&gt; groups develop, integrate, and adapt these forms of shared cognition remains incomplete. That is, little attention has been directed towards the dynamic processes through which knowledge is acquired, compiles, and manifests within teams. The manner by which team knowledge is created and sustained remains a “black box.”&lt;/p&gt;
+&lt;p&gt;A lack of theoretical and empirical attention towards unpacking this black box and revealing the processes responsible for team knowledge emergence is problematic for at least two reasons. First, the development and maintenance of knowledge at the team level inherently involves intra- and inter-member processes unfolding over time. However, what these processes are and how they interact to facilitate team cognition are not well explicated. Second, ignoring the process of team knowledge emergence limits inferences about why teams may be more or less successful at achieving desired levels of team cognition. Focusing on static, variable-to-variables relationships between predictors and team knowledge outcomes (i.e., higher team ability -&amp;gt; better team cognition) can suggest conditions that correlate with the development of collective knowledge. However, such research does not provide insight into &lt;em&gt;how&lt;/em&gt; or &lt;em&gt;why&lt;/em&gt; these conditions lead to improved knowledge outcomes. Systematically exploring these questions requires concerted efforts to develop more precise theory and conduct more focused empirical research that capture the events, actions, and cognitive processes that contribute to the development of both individually held and collectively shared knowledge.&lt;/p&gt;
+&lt;p&gt;My primary focus of research in the domain of team cognition is thus directly oriented towards specifying and studying the dynamic processes involved in developing team cognition. In some of my initial work in this domain, my colleagues and I advanced a formal theory and computational model that elaborated several core concepts and mechanisms of knowledge emergence in teams. Our simulations with the model revealed several leverage points for facilitating convergent team cognition, such as improving the rates at which individual members learn information and regulating the rates at which information is shared/exchanged by individuals. We then constructed a novel team knowledge-building task and conducted an empirical study which lent support to these model predictions and therefore the core model mechanisms. In future research in this domain, I am interested in further examining the effects of individual vs. joint attention, the role of path dependence in team knowledge and decision-making (i.e., extent to which previously known/shared information and decisions shapes subsequent attention to information and choices by teams), and incorporating the effects of goals and differences in individuals&#39; understanding of &amp;ldquo;why&amp;rdquo; and &amp;ldquo;what&amp;rdquo; interpretations impact the emergence of collective knowledge.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Information processing accounts for situational judgment test responding</title>
+      <link>http://localhost:1313/project/sjt-response-process/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/sjt-response-process/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;From political leaders to CEOs to front-line employees, there is widespread recognition that the capacity to make effective decisions and accurate judgments is a sign of competence and expertise. For example, consider the following scenario and potential responses one might take:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;You and someone from another department are jointly responsible for coordinating a project involving both departments. The other person is not carrying out his share of the responsibilities. How would you deal with this situation?&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Discuss the situation with your manager and ask him to take it up with the other person&amp;rsquo;s manager.&lt;/li&gt;
+&lt;li&gt;Remind him that you need his help and that the project won&amp;rsquo;t be completed effectively without a full team effort from both of you.&lt;/li&gt;
+&lt;li&gt;Try to find out why he is not doing his share and explain to him that this creates more work for you and makes it harder to finish the project.&lt;/li&gt;
+&lt;li&gt;Get someone else from his department to help with the project.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Which of these actions do you believe would be most effective? Least effective? Why? How did your reach that conclusion? How would you interpret a person&amp;rsquo;s responses to this question?&lt;/p&gt;
+&lt;p&gt;The scenario and response options shown above is an example of an item that might be found on a &lt;em&gt;situational judgement test&lt;/em&gt; (SJT). SJTs most commonly present respondents with a series of scenarios that reflect possible circumstances, tasks, or decisions that might be experienced in a particular context. Each scenario is accompanied by a set of possible actions that the respondent is asked to evaluate and choose among. Because of their practical and predictive value, SJTs are commonly used in many personnel assessment contexts including selection and training evaluation. Nevertheless, there are many fundamental questions related to the use and design of SJTs. Perhaps most significantly, there is still uncertainty regarding how to interpret the meaning of &amp;ldquo;performance&amp;rdquo; on an SJT. Similar uncertainties exist regarding how the construction or presentation of an SJT item might influence respondents’ choices and subsequent interpretation of scores.&lt;/p&gt;
+&lt;p&gt;The main purpose and motivation of this research is to better understand the judgment and decision-making processes underlying SJT responding. Through studying the psychological mechanisms of SJT responding, I hope to provide insight and potential recommendations that can be used to inform the scoring, interpretation, and design of SJTs. To this end, I have proposed a formal theory and computational model of what I believe represents the cognitive processes used by respondents to answer SJT items known as SiRJ (&lt;strong&gt;Si&lt;/strong&gt;tuated &lt;strong&gt;R&lt;/strong&gt;easoning and &lt;strong&gt;J&lt;/strong&gt;udgment). Simulation studies conducted with the model reveal considerable correspondence with existing empirical evidence. I have also gathered additional data using eye tracking that provides further support for several of the model&amp;rsquo;s predictions.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

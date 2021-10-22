@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scott Tonidandel | James A. Grand</title>
+    <link>http://localhost:1313/authors/scott-tonidandel/</link>
+      <atom:link href="http://localhost:1313/authors/scott-tonidandel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Scott Tonidandel</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021-2021 James A. Grand | [License and attributions](/license)</copyright><lastBuildDate>Wed, 18 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu2193968a47c7885e43f5996d5159098f_13299_512x512_fill_lanczos_center_2.png</url>
+      <title>Scott Tonidandel</title>
+      <link>http://localhost:1313/authors/scott-tonidandel/</link>
+    </image>
+    
+    <item>
+      <title>From outcome to process focus: Fostering a more robust psychological science through registered reports and results-blind reviewing</title>
+      <link>http://localhost:1313/publication/grand-2018-registeredreportsresultsblindreviewing/</link>
+      <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/grand-2018-registeredreportsresultsblindreviewing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A systems-based approach to fostering robust science in industrial-organizational psychology</title>
+      <link>http://localhost:1313/publication/grand-2018-systemsapproachtorobustscience/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/grand-2018-systemsapproachtorobustscience/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

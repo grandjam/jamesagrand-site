@@ -12,6 +12,7 @@ authors:
 - JamesGrand
 tags: [Agent-based Modeling, Stereotypes, Leadership]
 categories: [Computational Modeling]
+inPress: false
 date: '2019-09-01'
 lastmod: 2021-05-13T23:47:18-04:00
 featured: false

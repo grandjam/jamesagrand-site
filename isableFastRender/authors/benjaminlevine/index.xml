@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bejamin R. Levine | James A. Grand</title>
+    <link>http://localhost:1313/authors/benjaminlevine/</link>
+      <atom:link href="http://localhost:1313/authors/benjaminlevine/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bejamin R. Levine</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021-2021 James A. Grand | [License and attributions](/license)</copyright><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/authors/benjaminlevine/avatar_huf6073ff5191e84ebb68e00a440042a8e_79090_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Bejamin R. Levine</title>
+      <link>http://localhost:1313/authors/benjaminlevine/</link>
+    </image>
+    
+    <item>
+      <title>Exploring women&#39;s leadership labyrinth: Effects of hiring and developmental opportunities on gender stratification</title>
+      <link>http://localhost:1313/publication/samuelson-2019-genderstratificationmodel/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/samuelson-2019-genderstratificationmodel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development and empirical testing of a novel team leadership assessment measure: A pilot study using simulated and live patient encounters</title>
+      <link>http://localhost:1313/publication/rosenman-2019-teamleadershipassessment/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rosenman-2019-teamleadershipassessment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Changing systems through effective teams: A role for simulation</title>
+      <link>http://localhost:1313/publication/rosenman-2018-changingsystemsthroughteams/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rosenman-2018-changingsystemsthroughteams/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

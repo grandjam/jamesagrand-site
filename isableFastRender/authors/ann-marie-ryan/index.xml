@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ann Marie Ryan | James A. Grand</title>
+    <link>http://localhost:1313/authors/ann-marie-ryan/</link>
+      <atom:link href="http://localhost:1313/authors/ann-marie-ryan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ann Marie Ryan</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021-2021 James A. Grand | [License and attributions](/license)</copyright><lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu2193968a47c7885e43f5996d5159098f_13299_512x512_fill_lanczos_center_2.png</url>
+      <title>Ann Marie Ryan</title>
+      <link>http://localhost:1313/authors/ann-marie-ryan/</link>
+    </image>
+    
+    <item>
+      <title>Culture and testing practices: Is the world flat?</title>
+      <link>http://localhost:1313/publication/ryan-2017-crossculturaltestingpractices/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ryan-2017-crossculturaltestingpractices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trends in testing: Highlights of a global survey</title>
+      <link>http://localhost:1313/publication/ryan-2015-globaltestingtrends/</link>
+      <pubDate>Fri, 15 May 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ryan-2015-globaltestingtrends/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An examination of common sensitivity review practices in test development</title>
+      <link>http://localhost:1313/publication/golubovich-2014-sensitivityreviewpractices/</link>
+      <pubDate>Tue, 18 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/golubovich-2014-sensitivityreviewpractices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The detection and influence of problematic item content in ability tests: An examination of sensitivity review practices for personnel selection test development</title>
+      <link>http://localhost:1313/publication/grand-2013-signaldetectionofproblematicitems/</link>
+      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/grand-2013-signaldetectionofproblematicitems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How far does stereotype threat reach? The potential detriment of face validity in cognitive ability testing</title>
+      <link>http://localhost:1313/publication/grand-2010-facevalidityeffects/</link>
+      <pubDate>Fri, 21 May 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/grand-2010-facevalidityeffects/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

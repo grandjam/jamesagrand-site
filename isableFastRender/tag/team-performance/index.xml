@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Team Performance | James A. Grand</title>
+    <link>http://localhost:1313/tag/team-performance/</link>
+      <atom:link href="http://localhost:1313/tag/team-performance/index.xml" rel="self" type="application/rss+xml" />
+    <description>Team Performance</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021-2021 James A. Grand | [License and attributions](/license)</copyright><lastBuildDate>Thu, 01 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu2193968a47c7885e43f5996d5159098f_13299_512x512_fill_lanczos_center_2.png</url>
+      <title>Team Performance</title>
+      <link>http://localhost:1313/tag/team-performance/</link>
+    </image>
+    
+    <item>
+      <title>Changing systems through effective teams: A role for simulation</title>
+      <link>http://localhost:1313/publication/rosenman-2018-changingsystemsthroughteams/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rosenman-2018-changingsystemsthroughteams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teams, teamwork, and team effectiveness: Implications for human systems integration.</title>
+      <link>http://localhost:1313/publication/kozlowski-2015-teameffectivenesshsi/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/kozlowski-2015-teameffectivenesshsi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of a computer-based educational intervention to improve medical teamwork and performance during simulated patient resuscitations</title>
+      <link>http://localhost:1313/publication/fernandez-2013-medteamsteamworktraining/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/fernandez-2013-medteamsteamworktraining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Going DEEP: guidelines for building simulation-based team assessments</title>
+      <link>http://localhost:1313/publication/grand-2013-deepguildelinesforsimassessments/</link>
+      <pubDate>Fri, 25 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/grand-2013-deepguildelinesforsimassessments/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

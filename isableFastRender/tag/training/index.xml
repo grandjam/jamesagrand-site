@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Training | James A. Grand</title>
+    <link>http://localhost:1313/tag/training/</link>
+      <atom:link href="http://localhost:1313/tag/training/index.xml" rel="self" type="application/rss+xml" />
+    <description>Training</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021-2021 James A. Grand | [License and attributions](/license)</copyright><lastBuildDate>Tue, 18 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu2193968a47c7885e43f5996d5159098f_13299_512x512_fill_lanczos_center_2.png</url>
+      <title>Training</title>
+      <link>http://localhost:1313/tag/training/</link>
+    </image>
+    
+    <item>
+      <title>Facilitating the transfer and impact of team and leadership training on patient outcomes</title>
+      <link>http://localhost:1313/project/translational-sim-training/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/translational-sim-training/</guid>
+      <description>&lt;h2 id=&#34;funding-sources&#34;&gt;Funding Sources&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ahrq.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Agency for Healthcare Research and Quality&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Award #: 1R18HS020295-01&lt;/li&gt;
+&lt;li&gt;Award #: 1R18HS022458-01A1&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cdmrp.army.mil/dmrdp/default&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Defense Medical Research and Development Program, JPC-1&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Award #: W81XWH-15-1-0403&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cdmrp.army.mil/dmrdp/default&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Defense Medical Research and Development Program, JPC-1&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Award #: W81XWH-18-1-0089&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;key-collaborators&#34;&gt;Key Collaborators&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/authors/rosefernandez/&#34;&gt;Rose Fernandez&lt;/a&gt; (Univ of Florida)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/authors/lizarosenman/&#34;&gt;Liza Rosenman&lt;/a&gt; (Univ of Washington)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/authors/stevekozlowski/&#34;&gt;Steve Kozlowski&lt;/a&gt; (Univ of South Florida)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/authors/georgiachao/&#34;&gt;Georgia Chao&lt;/a&gt; (Univ of South Florida)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;The contemporary healthcare system is often described as a “team sport” that relies heavily on coordination within and between teams of medical professionals to deliver patient care and manage increasingly complex processes. To this end, communication, teamwork skills, and effective team leadership have emerged as crucial elements to the provision of high quality healthcare and patient safety than ever before. Indeed, failures in these crucial aspects of team functioning have been directly linked with both increased medical errors and adverse patient events. Unfortunately, training and well-validated instructional guidance for developing effective team and leadership skills is a comparatively small component of most medical and continuing education programs.&lt;/p&gt;
+&lt;p&gt;Working closely with collaborators across a variety of healthcare disciplines, I design and conduct validation studies that target the development of generalizable training, assessment, and feedback methods aimed at improving the teamwork and leadership skills of healthcare professionals. The majority of work I conduct in this area is in emergency medicine contexts, in which individuals are tasked with working as part of ad hoc, multidisciplinary teams to perform complex patient care and medical decision-making under dynamic and time pressured conditions. These factors present considerable challenges for both team communication and coordination, and thus pose significant threats to patient safety.&lt;/p&gt;
+&lt;p&gt;Within this line of research, my colleagues and I focus heavily on improving the quality and effectiveness of &lt;em&gt;simulation-based training techniques&lt;/em&gt; (i.e., using artificial patients/scenarios as a stimulus for trainees to learn and practice skills) for improving the team and leadership capabilities of medical students/residents. Through this research stream, we focus on developing accessible and generalizable recommendations/guidance on how to structure training opportunities, assessment and evaluative methodologies, and deliver feedback to learners that can be implemented by both medical researchers and educators. Additionally, we have developed multiple team skills and leadership training programs, and have demonstrated that the behaviors/skills taught in our simulation-based trainings transfer to actual care settings with real patients and exhibit a measureable impact on the quality of medical care provided.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

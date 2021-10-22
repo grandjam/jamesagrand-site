@@ -10,6 +10,7 @@ authors:
 - JamesGrand
 tags: [Research Evaluation, Annotated CV, Research Philosophy]
 categories: [Open Science]
+inPress: false
 date: '2019-01-10'
 lastmod: 2021-05-13T23:47:13-04:00
 featured: false

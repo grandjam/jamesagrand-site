@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Completed | James A. Grand</title>
+    <link>http://localhost:1313/tag/completed/</link>
+      <atom:link href="http://localhost:1313/tag/completed/index.xml" rel="self" type="application/rss+xml" />
+    <description>Completed</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021-2021 James A. Grand | [License and attributions](/license)</copyright><lastBuildDate>Mon, 15 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu2193968a47c7885e43f5996d5159098f_13299_512x512_fill_lanczos_center_2.png</url>
+      <title>Completed</title>
+      <link>http://localhost:1313/tag/completed/</link>
+    </image>
+    
+    <item>
+      <title>Assessing leadership behavior through forced choice measures</title>
+      <link>http://localhost:1313/project/destructive-leadership-measure/</link>
+      <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/destructive-leadership-measure/</guid>
+      <description>&lt;h2 id=&#34;funding-sources&#34;&gt;Funding Sources&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ari.altess.army.mil/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Army Research Institute for the Behavioral and Social Sciences&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Award #: W911NF-18-2-0049&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;key-collaborators&#34;&gt;Key Collaborators&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://hangeslab.umd.edu/about/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paul Hanges&lt;/a&gt; (Univ of Maryland)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://psychology.usf.edu/faculty/sestark/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Steve Stark&lt;/a&gt; (Univ of South Florida)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;Historically, researchers have focused on positive leadership attributes; attributes believed to lead to organizational and follower effectiveness. The underlying assumption inherent in this research was that dysfunctional leadership was the absence of effective leadership. This changed, however, around the turn of the millennium, when organizational science began to directly focus on negative leadership styles. Various negative styles such as abusive supervision, destructive leadership, toxic leadershi, and petty tyranny (among otheres) have since been identified and scales measuring these constructs designed.&lt;/p&gt;
+&lt;p&gt;However, one difficulty when having respondents rate such undesirable behavior is that obtained scores are more prone to distortion from socially desirable responding. Forced-choice methodologies have been proposed as one promising method for reducing social desirability bias in scale scores. Specifically, forced-choice formats consist of sets of statements which have been matched in terms of social desirability from which respondents must choose one statement that is most characteristic of themselves or a focal target (e.g., a leader, a team member, etc.). Although useful for reducing certain response biases, conventional methods for scoring forced-choice scales cannot be used as they provide ipsative or partially ipsative data (i.e., total score on measure is constant for all examinees). Consequently, an alternative model for evaluating forced-choice data based on an ideal-point IRT model is recommended to produce scores that can be meaningfully used to differentiate between individuals. Unfortunately, a significant challenge in creating forced-choice instruments is writing items that conform to the ideal-point model. For example, recent work has demonstrated that items tend to conform to the ideal-point model if they describe typical or average level of behavior or if the items are double-barreled, but there is little guidance on how to appropriately construct and scale these items across a continuum. Consequently, to realize the full benefits of forced-choice data based on ideal-point responding, there is a notable need for research on the nature of forced-choice responding that can be used to inform better test construction practices.&lt;/p&gt;
+&lt;p&gt;Our research attempted to address this need in the context of leadership assessment. By proposing and applying a &lt;em&gt;psychological&lt;/em&gt; model of the proposed response processes used by individuals when making selections to forced-choice items, we developed a large bank of forced-choice items relevant to assessing both positive and negative aspects of leadership behavior that would better conform to an ideal-point model. We next conducted several empirical studies to establish the construct validity of our forced-choice scales and compare it to existing Likert-based scales of destructive leadership. Results revealed that our forced-choice scale demonstrated substantially lower method bias, strong convergent and discriminant validity, and was significantly correlated with respondents&#39; reports of counterproductive work behaivors. A publicly accessible website for scoring the forced-choice scale was also created to facilitate the use of the measure by interested researchers and practitioners.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

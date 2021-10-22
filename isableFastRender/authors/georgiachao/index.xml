@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Georgia T. Chao | James A. Grand</title>
+    <link>http://localhost:1313/authors/georgiachao/</link>
+      <atom:link href="http://localhost:1313/authors/georgiachao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Georgia T. Chao</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021-2021 James A. Grand | [License and attributions](/license)</copyright><lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/authors/georgiachao/avatar_hu6d72472fbb07427b7939eb573a09ac97_27778_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Georgia T. Chao</title>
+      <link>http://localhost:1313/authors/georgiachao/</link>
+    </image>
+    
+    <item>
+      <title>Does team leader gender matter? A Bayesian reconciliation of leadership and patient care during trauma resuscitations</title>
+      <link>http://localhost:1313/publication/rosenman-2021-genderleadershipresuscitation/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rosenman-2021-genderleadershipresuscitation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation-based team leadership training improves team leadership during actual trauma resuscitations: A randomized controlled trial</title>
+      <link>http://localhost:1313/publication/fernandez-2020-medteamleadershiptraining/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/fernandez-2020-medteamleadershiptraining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A simulation-based approach to measuring team situational awareness in emergency medicine: a multicenter, observational study</title>
+      <link>http://localhost:1313/publication/rosenman-2018-teamsituationalawarnessassessment/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rosenman-2018-teamsituationalawarnessassessment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The dynamics of team cognition: A process-oriented theory of knowledge emergence in teams</title>
+      <link>http://localhost:1313/publication/grand-2016-teamknowledgeemergence/</link>
+      <pubDate>Thu, 26 May 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/grand-2016-teamknowledgeemergence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Capturing the multilevel dynamics of emergence: Computational modeling, simulation, and virtual experimentation</title>
+      <link>http://localhost:1313/publication/kozlowski-2016-capturingdynamicsofemergence/</link>
+      <pubDate>Fri, 05 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/kozlowski-2016-capturingdynamicsofemergence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of a computer-based educational intervention to improve medical teamwork and performance during simulated patient resuscitations</title>
+      <link>http://localhost:1313/publication/fernandez-2013-medteamsteamworktraining/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/fernandez-2013-medteamsteamworktraining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advancing multilevel research design: Capturing the dynamics of emergence</title>
+      <link>http://localhost:1313/publication/kozlowski-2013-multilevelresearchdesign/</link>
+      <pubDate>Tue, 25 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/kozlowski-2013-multilevelresearchdesign/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Going DEEP: guidelines for building simulation-based team assessments</title>
+      <link>http://localhost:1313/publication/grand-2013-deepguildelinesforsimassessments/</link>
+      <pubDate>Fri, 25 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/grand-2013-deepguildelinesforsimassessments/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

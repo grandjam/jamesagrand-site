@@ -9,6 +9,7 @@ authors:
 - JamesGrand
 tags: [Stereotypes, Stereotype Threat]
 categories: [Bayesian Statistics, Learning, Training, Computational Modeling]
+inPress: false
 date: '2017-02-01'
 lastmod: 2021-05-13T23:47:05-04:00
 featured: false
