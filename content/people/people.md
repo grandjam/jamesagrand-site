@@ -33,7 +33,7 @@ design:
   # Show user's organizations/affiliations?
   show_organizations: false
 ---
-I'm a firm believer that a critical key to success is to surround yourself with successful people. I have been very fortunate to work alongside and learn from many talented mentors, colleagues, and students in my career. Doing fun, interesting, and impactful science is truly a team sport, and the people listed here are among the best teammates I could hope to ask for. 
+I'm a believer that a major key to success is the extent to which you are able to surround yourself with successful people. I have been fortunate to work alongside and learn from and with many talented mentors, colleagues, and students in my career. Doing fun, interesting, and impactful science is truly a team sport, and the people listed here are among the best teammates I could hope to ask for. 
 
 If you're a student interested in working together, please check out the pages for [prospective PhD students](/get-involved/prospective-phd-students) or [undergraduate research assistants](/get-involved/undergraduate-ra) for more information. If you're a researcher or practitioner interested in teaming together, please feel free to [contact](/#contact) me directly.
 <hr>

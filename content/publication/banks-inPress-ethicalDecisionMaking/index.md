@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Applying systems science to advance research on team phenomena'
+title: Ethical decision-making in the 21st century: A useful framework for Industrial-Organizational Psychologists
 subtitle: ''
 summary: ''
 authors:

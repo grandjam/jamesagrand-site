@@ -76,7 +76,7 @@ Conducting and interpreting research aimed at better understanding human behavio
 <hr>
 
 ## GRADUATE TEACHING
-I prefer to approach graduate student teaching from the perspective of an “informal apprenticeship” model. Thus, in addition to the priniples listed above, I also attempt to adhere to the following principles for graduate instruction:
+I prefer to approach graduate student teaching from the perspective of an “informal apprenticeship” model. Thus, in addition to the principles listed above, I also attempt to adhere to the following principles for graduate instruction:
 1. Facilitate the learning process by acting as an active resource/guide rather than the "final decision-maker" about the learning experience
 2. Foster the development of student expertise and professional identity
 
