@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Ethical decision-making in the 21st century: A useful framework for Industrial-Organizational Psychologists
+title: 'Ethical decision-making in the 21st century: A useful framework for Industrial-Organizational Psychologists'
 subtitle: ''
 summary: ''
 authors:
