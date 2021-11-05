@@ -13,7 +13,7 @@ authors:
 tags: [Health Care, Teamwork, Interprofessional Education]
 categories: [Teams, Training]
 inPress: false
-date: '2021-12-01'
+date: '2021-11-01'
 lastmod: 2021-05-13T23:47:11-04:00
 featured: false
 draft: false
@@ -50,7 +50,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-12-01T03:47:10.608738Z'
+publishDate: '2021-11-01T03:47:10.608738Z'
 publication_types:
 - '2'
 abstract: '**Background:** Alzheimer’s disease is the most common form of dementia, making it urgent to prepare health providers in interprofessional teams to care for those affected.<br /><br />
