@@ -52,7 +52,7 @@ user_groups:
 
 **Dr. James A. Grand** is an Associate Professor in the [Social, Decision, and Organizational Sciences](http://www.sdos.umd.edu) program in the [Department of Psychology](https://psyc.umd.edu/) at the University of Maryland. 
 
-My primary work focuses on understanding how individuals and teams build knowledge, make decisions, and enact behaviors to accomplish personal and collective goals. My research philosophy is heavily inspred by the science of *complex systems*, which suggests that the psychological and social phenomena we observe *emerge* from how  actions, relationships, perceptions, events, and contexts unfold within and between people over time in an environment. 
+My primary work focuses on understanding how individuals and teams build knowledge, make decisions, and enact behaviors to accomplish personal and collective goals. My research philosophy is heavily inspired by the science of *complex systems*, which suggests that the psychological and social phenomena we observe *emerge* from how  actions, relationships, perceptions, events, and contexts unfold within and between people over time in an environment. 
 
 Examples of my specific research interests include how individuals working within teams gather, share, and interpret information to make decisions and accomplish tasks; how the behaviors, communication, and regulatory efforts (e.g., leadership, influence) among individuals affects individual and collective outcomes; and how judgment/information processing influence individual learning and assessment outcomes. I rely on a variety of methodologies and data sources to study these topics, including behavioral observation, experimental studies, and computational modeling/simulation.
 
