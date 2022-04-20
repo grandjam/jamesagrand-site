@@ -4,7 +4,7 @@ summary: Developing theory and conducting empirical examinations of the judgment
 tags:
 - Assessment
 - Computational Modeling
-- Ongoing
+- Completed
 date: "2021-05-18"
 
 # Optional external URL for project (replaces project detail page).

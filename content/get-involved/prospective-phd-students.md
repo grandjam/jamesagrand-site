@@ -12,14 +12,14 @@ header:
   image: ""
 ---
 <!-- Accepting new graduate students -->
-<div class = "alert alert-success">
+<!-- <div class = "alert alert-success">
   <div class = "row">
     <div class = "col-md-12">
       I intend to recruit a new PhD student during the current application cycle. Please review the material on this page for more information on my approach to evaluating prospective PhD candidates as well as the <a href="https://psyc.umd.edu/graduate/apply-admission" target="_blank" rel="noopener" style="font-weight: bold">instructions and requirements</a> for applying to the UMD Psychology Department PhD program.
       <br><span style="font-weight: bold">Last updated: 9/14/21</span>
     </div>
   </div>
-</div>
+</div> -->
 
 <!-- Want to but not sure if accepting new graduate students -->
 <!-- <div class = "alert alert-warning">
@@ -32,14 +32,14 @@ header:
 </div> -->
 
 <!-- Not accepting new graduate students -->
-<!-- <div class = "alert alert-danger">
+<div class = "alert alert-danger">
   <div class = "row">
       <div class = "col-md-12">
-        I will not be recruiting a new PhD student during the current application cycle. However, exceptions may be made for applicants with special funding circumstances (i.e., external funding source, military funding). If this applies to you, please contact me directly to discuss potential opportunities.
-        <br><span style="font-weight: bold">Last updated: 5/25/21</span>
+        I will not be recruiting a new PhD student for the current application cycle. However, exceptions may be made for applicants with special funding circumstances (i.e., external funding source, military funding). If this applies to you, please contact me directly to discuss potential opportunities.
+        <br><span style="font-weight: bold">Last updated: 4/20/22</span>
       </div>
   </div>
-</div> -->
+</div>
 
 This page is intended to provide information, suggestions, and transparency for individuals interested in applying to work with me towards the completion of their PhD. I recognize that the PhD application process is a highly competitve and selective process. However, I also recognize that not every qualified candidate may have had the same access to or the same quality of mentorship, experiences, or opportunities during their undergraduate education or when preparing their application materials. My hope in providing this material is to offer insight into how I review PhD applicants so that prospective candidates can (a) make a more informed decision as to whether they think I would be a good match as an advisor and (b) prepare their application materials in a way that provides me and the review committee the most informative picture of your capabilities, interests, and motivations.
 

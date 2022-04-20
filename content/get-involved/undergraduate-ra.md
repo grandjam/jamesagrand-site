@@ -25,8 +25,8 @@ header:
 <div class = "alert alert-warning">
   <div class = "row">
       <div class = "col-md-12">
-        I don't currently have openings for additional undergraduate research assistants. However, there is a possibility that additional research projects and/or needs may arise for which we could use assistance. If you'd like to be considered for those opportunities, please review the information below on lab expectations and requirements, complete the lab application form, and someone from our lab will contact you should any opportunities arise.
-        <br><span style="font-weight: bold">Last updated: 9/14/21</span>
+        I don't currently have opportunities for additional undergraduate research assistants. However, there is a possibility that additional research projects and/or needs may arise for which we could use assistance. If you'd like to be considered if such instances arise, please review the information below on lab expectations and requirements, complete the lab application form, and someone from our lab will contact you should any opportunities become available.
+        <br><span style="font-weight: bold">Last updated: 4/20/22</span>
       </div>
   </div>
 </div>

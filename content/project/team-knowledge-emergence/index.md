@@ -4,7 +4,7 @@ summary: Formal theory, measurement/analytic techniques, and empirical research 
 tags:
 - Teams
 - Computational Modeling
-- Ongoing
+- Completed
 date: "2021-05-18"
 
 # Optional external URL for project (replaces project detail page).

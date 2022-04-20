@@ -4,7 +4,7 @@ summary: Formal theory-building and simluation research aimed at capturing the d
 tags:
 - Teams
 - Computational Modeling
-- Ongoing
+- Completed
 date: "2021-05-18"
 
 # Optional external URL for project (replaces project detail page).
@@ -50,7 +50,7 @@ slides: ""
 ## Summary
 The modern work environment in which organizations operate has continued its trajectory towards increasingly more complex and interdependent task demands that require rapid, flexible, and adaptive responses to the unexpected. In response, a world-wide restructuring of work around teams has occurred. As teams have become the dominant unit of work, team-based systems composed of teams of teams have also begun to emerge as a new organizational form (e.g., multiteam systems, MTSs). Managing and enhancing those facets that contribute to the effectiveness of teams and team-based systems depends on understanding the dynamic forces which influence how individuals within and between teams combine their efforts to successfully fulfill task demands in uncertain environments.
 
-In this stream of research, my colleageus and I have sought to develop a highly flexible and generalizable architecture for building, integrating, and testing theory related to team and team-based system effectiveness. Our work is deeply rooted in the principles of complex adaptive systems and adopts the perspective that collective functioning is an emergent property of the behaviors, choices, and perceptions of individual members of the collective; their relational interactions and influences; and the social and task environments in which those individuals operate. To this end, our research group has advanced a scalable and integrative agent-based model that allows us to represent various attributes and decision processes of individual team members, task demands, and the formation of interpersonal perceptions and influence that can affect interaction.
+In this stream of research, my colleagues and I have sought to develop a highly flexible and generalizable architecture for building, integrating, and testing theory related to team and team-based system effectiveness. Our work is deeply rooted in the principles of complex adaptive systems and adopts the perspective that collective functioning is an emergent property of the behaviors, choices, and perceptions of individual members of the collective; their relational interactions and influences; and the social and task environments in which those individuals operate. To this end, our research group has advanced a scalable and integrative agent-based model that allows us to represent various attributes and decision processes of individual team members, task demands, and the formation of interpersonal perceptions and influence that can affect interaction.
 
 We have conducted numerous simulation studies with the model to evaluate its correspondence with existing research/theory as well as probe and reveal insights into several compelling questions. For example:
 
