@@ -13,7 +13,7 @@ authors:
 tags: [Emergence, Theory-building]
 categories: [Complex systems, Computational Modeling]
 inPress: true
-date: '9999-10-17'
+date: '2022-04-25'
 lastmod: 2021-05-13T23:47:12-04:00
 featured: false
 draft: false
@@ -21,7 +21,7 @@ draft: false
 # Custom links (uncomment lines below)
 links:
 - name: Paper
-  url: uploads/pubs/Braun et al (in press) -- process-oriented theory.pdf
+  url: uploads/pubs/Braun et al (2022) -- process-oriented theory.pdf
   icon: file-pdf
   icon_pack: far
 
