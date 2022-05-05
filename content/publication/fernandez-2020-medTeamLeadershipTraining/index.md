@@ -60,7 +60,7 @@ projects:
 publishDate: '2021-05-14T03:47:19.753027Z'
 publication_types:
 - '2'
-abstract: '**Objectives**: Trauma resuscitations are complex critical care events that
+abstract: '**Objectives:** Trauma resuscitations are complex critical care events that
   present patient safety-related risk. Simulation-based leadership training is thought
   to improve trauma care; however, there is no robust evidence supporting the impact
   of leadership training on clinical performance. The objective of this study was
