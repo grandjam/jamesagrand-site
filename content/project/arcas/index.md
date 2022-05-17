@@ -41,7 +41,7 @@ slides: ""
 - [Army Research Institute for the Behavioral and Social Sciences](https://ari.altess.army.mil/)
   - Award #: W911NF-21-S-0007
 
-## Key Collaborators
+## Collaborators
 - [Mike Braun](/authors/michaelbraun/) (DePaul University)
 - [Goran Kuljanin](/authors/gorankuljanin/) (DePaul University)
 - [Steve Kozlowski](/authors/stevekozlowski/) (Univ of South Florida)

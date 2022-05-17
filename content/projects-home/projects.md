@@ -35,6 +35,8 @@ content:
     tag: Assessment
   - name: Training
     tag: Training
+  - name: Leadership
+    tag: Leadership
   - name: Ongoing
     tag: Ongoing
   - name: Completed

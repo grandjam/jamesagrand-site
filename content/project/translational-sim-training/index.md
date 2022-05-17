@@ -3,6 +3,7 @@ title: "Facilitating the transfer and impact of team and leadership training on 
 summary: Developmment and evaluation of simluation-based training, assessment, and feedback for improving healthcare
 tags:
 - Teams
+- Leadership
 - Training
 - Ongoing
 date: "2021-05-18"
@@ -45,12 +46,9 @@ slides: ""
 - [Defense Medical Research and Development Program, JPC-1](https://cdmrp.army.mil/dmrdp/default)
   - Award #: W81XWH-18-1-0089
 
-## Key Collaborators
+## Collaborators
 - [Rose Fernandez](/authors/rosefernandez/) (Univ of Florida)
 - [Liza Rosenman](/authors/lizarosenman/) (Univ of Washington)
-- [Steve Kozlowski](/authors/stevekozlowski/) (Univ of South Florida)
-- [Georgia Chao](/authors/georgiachao/) (Univ of South Florida)
-
 
 ## Summary
 The contemporary healthcare system is often described as a “team sport” that relies heavily on coordination within and between teams of medical professionals to deliver patient care and manage increasingly complex processes. To this end, communication, teamwork skills, and effective team leadership have emerged as crucial elements to the provision of high quality healthcare and patient safety than ever before. Indeed, failures in these crucial aspects of team functioning have been directly linked with both increased medical errors and adverse patient events. Unfortunately, training and well-validated instructional guidance for developing effective team and leadership skills is a comparatively small component of most medical and continuing education programs.

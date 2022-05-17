@@ -3,6 +3,7 @@ title: "Assessing leadership behavior through forced choice measures"
 summary: Developing forced choice scales and scoring tools for assessing both negative and positive leadership behaviors
 tags:
 - Assessment
+- Leadership
 - Completed
 date: "2021-03-15"
 
@@ -34,7 +35,7 @@ slides: ""
 - [Army Research Institute for the Behavioral and Social Sciences](https://ari.altess.army.mil/)
   - Award #: W911NF-18-2-0049
 
-## Key Collaborators
+## Collaborators
 - [Paul Hanges](https://hangeslab.umd.edu/about/) (Univ of Maryland)
 - [Steve Stark](http://psychology.usf.edu/faculty/sestark/) (Univ of South Florida)
 
