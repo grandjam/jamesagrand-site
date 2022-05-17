@@ -15,10 +15,10 @@ image:
   focal_point: Smart
 
 links:
-# - icon: twitter
-#   icon_pack: fab
-#   name: Follow
-#   url: https://twitter.com/georgecushen
+- name: Code
+  url: "https://supp.apa.org/psycarticles/supplemental/apl0000136/APL-2014-0766R3_Supp.R.txt"
+  icon: r-project
+  icon_pack: fab
 url_code: ""
 url_pdf: ""
 url_slides: ""

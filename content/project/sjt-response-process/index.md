@@ -15,10 +15,14 @@ image:
   focal_point: Smart
 
 links:
-# - icon: twitter
-#   icon_pack: fab
-#   name: Follow
-#   url: https://twitter.com/georgecushen
+- name: Code
+  url: "https://github.com/grandjam/SiRJ"
+  icon: github
+  icon_pack: fab
+- name: Web app
+  url: "https://grandjam.shinyapps.io/sirj/"
+  icon: r-project
+  icon_pack: fab
 url_code: ""
 url_pdf: ""
 url_slides: ""
