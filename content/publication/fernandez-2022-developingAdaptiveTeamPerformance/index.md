@@ -12,7 +12,7 @@ authors:
 tags: [Adaptation, Health Care]
 categories: [Teams, Training]
 inPress: true
-date: '9999-01-01'
+date: '2022-06-15'
 lastmod: 2021-05-13T23:47:20-04:00
 featured: false
 draft: false
@@ -20,7 +20,7 @@ draft: false
 # Custom links (uncomment lines below)
 links:
 - name: Paper
-  url: uploads/pubs/Fernandez et al (in press) -- training team adaptability.pdf
+  url: uploads/pubs/Fernandez et al (2022) -- training team adaptability.pdf
   icon: file-pdf
   icon_pack: far
 
