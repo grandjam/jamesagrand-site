@@ -11,7 +11,7 @@ authors:
 - JamesGrand
 tags: [Adaptation, Health Care]
 categories: [Teams, Training]
-inPress: true
+inPress: false
 date: '2022-06-15'
 lastmod: 2021-05-13T23:47:20-04:00
 featured: false
@@ -55,6 +55,6 @@ abstract: '**Introduction:** Effective emergency department care requires indivi
   **Methods:** We examined the team science and healthcare literature for key concepts in adaptive performance, healthcare team performance, and diagnostic decision-making.  Using expert consensus, we integrated these concepts to develop the Team Adaptive Performance model and to identify training design approaches that support the development of adaptability.<br /><br />
   **Results:** We identify 9 training principles supported by the team adaptive performance model and the adaptive learning system. Each training principle is accompanied by recommendations and mechanisms for implementation in emergency medicine simulation-based education.<br /><br />
   **Conclusion:** Training experiences can be designed to target processes that support adaptive performance.<br /><br />'
-publication: '*AEM Education & Training*'
-doi: ''
+publication: '*AEM Education & Training, 6*, e10762'
+doi: 'http://doi.org/10.1002/aet2.10762'
 ---
