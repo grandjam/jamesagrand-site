@@ -56,6 +56,6 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
-The topics listed on this page provide a sample of my current lines of research. Note that projects tagged as "Completed" do not mean that I am uninterested in working on or thinking about that topic further--it simply reflects I am not actively engaged in any ongoing research in that area at the moment. Additionally, the list of projects provided here is not exhaustive and is primarily intended to provide a sense of the type of work I do. I am always open to exploring new ideas, opportunities, and collaborations (particularly with [motivated graduate and undergraduate students](/get-involved)!) on topics that are aligned with my [general interests](/authors/jamesgrand).
+The topics listed on this page provide a sample of my current lines of research. Note that projects tagged as "Completed" do not mean that I am uninterested in working on or thinking about that topic further--it simply reflects I am not actively engaged in any ongoing research in that area at the moment. Additionally, the list of projects provided here is not exhaustive and is primarily intended to provide a sense of the type of work I do. I am always open to exploring new ideas, opportunities, and collaborations (particularly with motivated [graduate](/get-involved/prospective-phd-students) and [undergraduate](/get-involved/undergraduate-ra) students!) on topics that are aligned with my [general interests](/authors/jamesgrand).
 
 <hr>

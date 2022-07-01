@@ -15,6 +15,9 @@ organizations:
     url: https://www.umd.edu/
 education:
   courses:
+    - course: MS in Industrial-Organizational Psychology
+      institution: University of Maryland, College Park MD
+      year: 2021
     - course: BA in Psychology, Communication, Organizational Sociology (High Honors, Minor in Lingusitics)
       institution: University of California--Davis, Davis CA
       year: 2017
