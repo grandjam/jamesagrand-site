@@ -16,7 +16,7 @@ header:
   <div class = "row">
     <div class = "col-md-12">
       I am currently accepting applications for volunteer undergraduate research assistants. Please review the information below on lab expectations and requirements, complete the lab application form, and someone from our lab will follow up to schedule a time to discuss opportunities.
-      <br><span style="font-weight: bold">Last updated: 9/14/21</span>
+      <br><span style="font-weight: bold">Last updated: <script> document.write(new Date().toLocaleDateString());</script></span>
     </div>
   </div>
 </div> -->
@@ -26,7 +26,7 @@ header:
   <div class = "row">
       <div class = "col-md-12">
         I don't currently have opportunities for additional undergraduate research assistants. However, there is a possibility that additional research projects and/or needs may arise for which we could use assistance. If you'd like to be considered if such instances arise, please review the information below on lab expectations and requirements, complete the lab application form, and someone from our lab will contact you should any opportunities become available.
-        <br><span style="font-weight: bold">Last updated: 4/20/22</span>
+        <br><span style="font-weight: bold">Last updated: <script> document.write(new Date().toLocaleDateString());</script></span>
       </div>
   </div>
 </div>
@@ -36,7 +36,7 @@ header:
   <div class = "row">
       <div class = "col-md-12">
         I don't currently have openings for additional undergraduate research assistants and do not anticipate further opportunities to participate in the lab. If you are interested in joining the lab at some point in the future, please check back after the current semester has ended and prior to the start of next semester.
-        <br><span style="font-weight: bold">Last updated: 5/25/21</span>
+        <br><span style="font-weight: bold">Last updated: <script> document.write(new Date().toLocaleDateString());</script></span>
       </div>
   </div>
 </div> -->
