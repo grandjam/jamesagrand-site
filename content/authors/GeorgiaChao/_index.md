@@ -6,7 +6,7 @@ role: Professor, Psychology
 social:
   - icon: globe
     icon_pack: fas
-    link: http://psychology.usf.edu/faculty/gchao
+    link: https://www.usf.edu/arts-sciences/departments/psychology/people/gchao.aspx
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=pOWIQxgAAAAJ&hl=en

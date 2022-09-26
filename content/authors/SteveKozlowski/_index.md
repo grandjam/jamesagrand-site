@@ -6,7 +6,7 @@ role: World Class Scholar and Professor, Psychology
 social:
   - icon: globe
     icon_pack: fas
-    link: http://psychology.usf.edu/faculty/skozlowski
+    link: https://www.usf.edu/arts-sciences/departments/psychology/people/skozlowski.aspx
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=XEjiPNEAAAAJ&hl=en

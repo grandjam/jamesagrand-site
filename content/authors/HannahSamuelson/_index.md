@@ -47,4 +47,4 @@ email: ""
 user_groups: 
   - PhD Alumni
 ---
-Hannah Samuelson earned her PhD in Psychology in 2019 (Dissertation: [The development and validation of a hierarchical multiple-goal pursuit model](https://drum.lib.umd.edu/handle/1903/25052)). Her primary research interests involve the study of goal systems, individual and collective goal pursuit, and computational modeling. She is currently a post-doctoral research fellow at the [U.S. Army Research Institute for the Behavioral and Social Sciences](https://ari.altess.army.mil/).
+Hannah Samuelson earned her PhD in Psychology in 2019 (Dissertation: [The development and validation of a hierarchical multiple-goal pursuit model](https://drum.lib.umd.edu/handle/1903/25052)). Her primary research interests involve the study of goal systems, individual and collective goal pursuit, and computational modeling. She is currently a Research Psychologist at the [U.S. Army Research Institute for the Behavioral and Social Sciences](https://ari.altess.army.mil/).
