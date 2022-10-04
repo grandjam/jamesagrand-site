@@ -1,5 +1,5 @@
 ---
-role: PhD Alumni
+role: PhD Alumnus
 # interests:
 #   - Test
 #   - Test

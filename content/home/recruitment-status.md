@@ -47,13 +47,13 @@ design:
   </div>
   <!-- UNDERGRAD STUDENT RECRUITING STATUS-->
   <div class = "col-12 col-sm-6 d-flex">
-    <div class = "card flex-fill warning">
+    <div class = "card flex-fill danger">
       <div class = "card-img-top">
-        <i class = "fas fa-question-circle warning"></i>
+        <i class = "fas fa-times-circle danger"></i>
       </div>
-      <div class = "card-body d-flex flex-column">
-        <h3 class = "card-title">UNDERGRADUATE STUDENTS</h3>
-        <p class = "card-text">I am not actively seeking undergraduate research assistants, but opportunities may come up later. Please click the link below for more information and check back soon.</p>
+    <div class = "card-body d-flex flex-column">
+      <h3 class = "card-title">UNDERGRADUATE STUDENTS</h3>
+        <p class = "card-text">I do not currently have openings for undergraduate research assistants and do not expect opportunities to participate in the lab at this time. Please check back later.</p>
         <div class = "card-btn mt-auto">
           <a href = "/get-involved/undergraduate-ra" class = "btn btn-primary btn-lg mb-3 mb-md-1">
           <i class = "fas fa-circle-notch pr-1" aria-hidden="true"></i>
@@ -136,7 +136,7 @@ design:
   </div>
   <div class = "card-body d-flex flex-column">
     <h3 class = "card-title">UNDERGRADUATE STUDENTS</h3>
-    <p class = "card-text">I am not currently seeking undergraduate research assistants, but expect opportunities to come up shortly. Please click the link below for more information and check back later.</p>
+    <p class = "card-text">I am not actively seeking undergraduate research assistants, but opportunities may come up later. Please click the link below for more information and check back soon.</p>
     <div class = "card-btn mt-auto">
       <a href = "/get-involved/undergraduate-ra" class = "btn btn-primary btn-lg mb-3 mb-md-1">
       <i class = "fas fa-circle-notch pr-1" aria-hidden="true"></i>
@@ -151,7 +151,7 @@ design:
   </div>
   <div class = "card-body d-flex flex-column">
     <h3 class = "card-title">UNDERGRADUATE STUDENTS</h3>
-    <p class = "card-text">I do not currently have openings for undergraduate research assistants and do not expect opportunities to participate in the lab. Please check back later.</p>
+    <p class = "card-text">I do not currently have openings for undergraduate research assistants and do not expect opportunities to participate in the lab at this time. Please check back later.</p>
     <div class = "card-btn mt-auto">
       <a href = "/get-involved/undergraduate-ra" class = "btn btn-primary btn-lg mb-3 mb-md-1">
       <i class = "fas fa-circle-notch pr-1" aria-hidden="true"></i>

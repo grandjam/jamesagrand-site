@@ -22,24 +22,24 @@ header:
 </div> -->
 
 <!-- MAYBE ACCEPTING RAs -->
-<div class = "alert alert-warning">
+<!-- <div class = "alert alert-warning">
   <div class = "row">
       <div class = "col-md-12">
-        I don't currently have opportunities for additional undergraduate research assistants. However, there is a possibility that additional research projects and/or needs may arise for which we could use assistance. If you'd like to be considered if such instances arise, please review the information below on lab expectations and requirements, complete the lab application form, and someone from our lab will contact you should any opportunities become available.
-        <br><span style="font-weight: bold">Last updated: <script> document.write(new Date().toLocaleDateString());</script></span>
-      </div>
-  </div>
-</div>
-
-<!-- NOT ACCEPTING RAs -->
-<!-- <div class = "alert alert-danger">
-  <div class = "row">
-      <div class = "col-md-12">
-        I don't currently have openings for additional undergraduate research assistants and do not anticipate further opportunities to participate in the lab. If you are interested in joining the lab at some point in the future, please check back after the current semester has ended and prior to the start of next semester.
+        I do not currently have opportunities for additional undergraduate research assistants. However, there is a possibility that additional research projects and/or needs may arise for which we could use assistance. If you'd like to be considered if such instances arise, please review the information below on lab expectations and requirements, complete the lab application form, and someone from our lab will contact you should any opportunities become available.
         <br><span style="font-weight: bold">Last updated: <script> document.write(new Date().toLocaleDateString());</script></span>
       </div>
   </div>
 </div> -->
+
+<!-- NOT ACCEPTING RAs -->
+<div class = "alert alert-danger">
+  <div class = "row">
+      <div class = "col-md-12">
+        I do not have openings for additional undergraduate research assistants and do not anticipate further opportunities to participate in the lab at this time. If you are interested in joining the lab at some point in the future, please check back after the current semester has ended and prior to the start of next semester.
+        <br><span style="font-weight: bold">Last updated: <script> document.write(new Date().toLocaleDateString());</script></span>
+      </div>
+  </div>
+</div>
 
 Getting involved in a lab as an undergraduate research assistant (RA) is one of the best ways to learn about how to conduct research, get exposed to new and interesting topics not covered in your coursework, and build your professional network. It's also just a lot of fun!
 
@@ -127,7 +127,7 @@ The University of Maryland psychology department offers the [option for undergra
 <div class = "form-check">
   <input id = "raAssignment" class = "form-check-input" type = "checkbox" value = "">
   <label class = "form-check-label" for = "raAssignment">
-  Will complete either a short paper or presentation by the end of the semester on a topic agreed upon with Prof. Grand
+  Will complete either a short paper or presentation by the end of the semester on an agreed upon topic
   </label>
 </div>
 <br>
