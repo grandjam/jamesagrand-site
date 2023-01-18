@@ -9,8 +9,8 @@ authors:
 - JamesGrand
 tags: [Team Performance, Theory-building]
 categories: [Complex systems, Teams]
-inPress: true
-date: '9999-10-17'
+inPress: false
+date: '2022-08-01'
 lastmod: 2021-05-13T23:47:12-04:00
 featured: true
 draft: false
@@ -22,7 +22,7 @@ author_notes:
 # Custom links (uncomment lines below)
 links:
 - name: Paper
-  url: uploads/pubs/Strauss & Grand (in press) -- systems science for team phenomena.pdf
+  url: uploads/pubs/Strauss & Grand (2022) -- systems science for team phenomena.pdf
   icon: file-pdf
   icon_pack: far
 
