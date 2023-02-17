@@ -9,7 +9,10 @@ role: PhD Student
 #     link: 
 education:
   courses:
-    - course: BA in Psychology, BS in Management
+    - course: BA in Psychology
+      institution: University of Maryland, College Park MD
+      year: 2021
+    - course: BS in Management
       institution: University of Maryland, College Park MD
       year: 2021
 superuser: false
