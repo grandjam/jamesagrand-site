@@ -16,8 +16,8 @@ header:
 ## INTERESTS & INSPIRATIONS
 As an [organizational psychologist](https://en.wikipedia.org/wiki/Industrial_and_organizational_psychology), I am interested in developing basic knowledge about human cognition, affect, and behavior that can be used to improve the effectiveness and well-being of employees and organizations. My primary research interests within this context largely fall into two streams of activity:
 
-> - Developing formal theories and evaluating evidence-based interventions for understanding and enhancing the effectiveness of teams and organizations
-> - Developing and evaluating formal theories models of the psychological processes and situational factors that influence learning and assessment outcomes for individuals
+> - Developing formal models and evaluating evidence-based interventions for understanding and enhancing the effectiveness of teams and organizations
+> - Developing and evaluating formal models of the psychological processes and situational factors that influence learning and assessment outcomes for individuals
 
 I am often inspired by and frequently draw upon ideas found in disciplines outside of organizational psychology in my research, including [general systems theory](https://en.wikipedia.org/wiki/Systems_theory), [network science](https://en.wikipedia.org/wiki/Network_science), [computer science](https://en.wikipedia.org/wiki/Computer_science), [sociology](https://en.wikipedia.org/wiki/Sociology), [cognitive psychology](https://en.wikipedia.org/wiki/Cognitive_psychology), and [social psychology](https://en.wikipedia.org/wiki/Social_psychology). Additionally--or perhaps as a result--I enjoy learning about and applying a variety of methodological/analytical techniques in my work (e.g., [computational modeling](https://en.wikipedia.org/wiki/Computer_simulation), [Bayesian modeling](https://en.wikipedia.org/wiki/Bayesian_statistics), [network analyses](https://en.wikipedia.org/wiki/Network_science#Social_network_analysis), [machine learning](https://en.wikipedia.org/wiki/Machine_learning), behavioral trace data, eye tracking). 
 
