@@ -12,8 +12,8 @@ authors:
 - JamesGrand
 tags: [Ethics]
 categories: [Judgment/Decision-making]
-inPress: true
-date: '9999-10-17'
+inPress: false
+date: '2022-05-01'
 lastmod: 2021-05-13T23:47:12-04:00
 featured: false
 draft: false
@@ -21,7 +21,7 @@ draft: false
 # Custom links (uncomment lines below)
 links:
 - name: Paper
-  url: uploads/pubs/Banks et al (in press) -- ethical decision-making in IOP.pdf
+  url: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C96E6FDEE99600FA87CC54FCFACF8478/S1754942621001437a.pdf/ethical-decision-making-in-the-21st-century-a-useful-framework-for-industrial-organizational-psychologists.pdf
   icon: file-pdf
   icon_pack: far
 
