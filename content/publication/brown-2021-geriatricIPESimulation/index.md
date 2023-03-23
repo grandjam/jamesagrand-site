@@ -55,6 +55,6 @@ abstract: '**Background:** Alzheimer’s disease is the most common form of deme
 **Methods:** An unfolding geriatric simulation-enhanced interprofessional education program was de- signed using an ACE.S case and breakout activities for an interprofessional group of nursing, social work, speech therapy and nutrition students.<br /><br />
 **Results:** Pre post education measures revealed a decrease in perceived challenges for interprofessional collaboration, with no change in readiness for interprofessional learning. Satisfaction with the education design was rated positively, and individual education components were rated as valuable.<br /><br />
 **Conclusions:** This study offers educators an effective example of an unfolding active interprofessional geriatric education related to Alzheimer’s care.'
-publication: '*Clinical Simulation in Nursing*, 33-41'
+publication: '*Clinical Simulation in Nursing, 61*, 33-41'
 doi: https://doi.org/10.1016/j.ecns.2021.09.002
 ---

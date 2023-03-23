@@ -71,6 +71,6 @@ ethical situation relevant to academia, practice, or graduate education in
 I-O psychology. We hope to stimulate the refinement of ethical decisionmaking,
 illustrate its application in our profession, and advance
 conversations about ethical practices."
-publication: '*Industrial and Organizational Psychology: Perspectives on Science and Practice*'
-doi: ""
+publication: '*Industrial and Organizational Psychology: Perspectives on Science and Practice, 15*, 220-235'
+doi: "https://doi.org/10.1017/iop.2021.143"
 ---
