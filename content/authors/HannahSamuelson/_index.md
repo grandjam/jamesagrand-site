@@ -26,8 +26,8 @@ social:
 #     icon_pack: fab
 #     link: https://github.com/grandjam 
 organizations:
-  - name: Army Research Institute for the Behavioral and Social Sciences
-    url: https://ari.altess.army.mil/
+  - name: Department of Defense Office of People Analytics
+    url: https://www.opa.mil/
 education:
   courses:
     - course: PhD in Social, Decision, and Organizational Science
@@ -47,4 +47,4 @@ email: ""
 user_groups: 
   - PhD Alumni
 ---
-Hannah Samuelson earned her PhD in Psychology in 2019 (Dissertation: [The development and validation of a hierarchical multiple-goal pursuit model](https://drum.lib.umd.edu/handle/1903/25052)). Her primary research interests involve the study of goal systems, individual and collective goal pursuit, and computational modeling. She is currently a Research Psychologist at the [U.S. Army Research Institute for the Behavioral and Social Sciences](https://ari.altess.army.mil/).
+Hannah Samuelson earned her PhD in Psychology in 2019 (Dissertation: [The development and validation of a hierarchical multiple-goal pursuit model](https://drum.lib.umd.edu/handle/1903/25052)) and is currently a Senior Research Psychologist at the [U.S. Deparment of Defense Office of Pepole Analytics](https://www.opa.mil/). Her research examines how negative interpersonal relations, workplace incivility, and leadership behaviors impact an individual’s ability to thrive in their workplace and throughout their career.

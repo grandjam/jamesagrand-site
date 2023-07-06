@@ -1,6 +1,6 @@
 ---
 role: Associate Professor, Psychology
-bio: "I'm a scientist at heart, an organizational psychologist by training, and a lucky dad and husband all the time."
+bio: "A scientist at heart, an organizational psychologist by training, and a lucky dad and husband all the time."
 interests:
   - Complex systems
   - Team functioning & cognition
