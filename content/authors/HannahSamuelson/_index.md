@@ -47,4 +47,4 @@ email: ""
 user_groups: 
   - PhD Alumni
 ---
-Hannah Samuelson earned her PhD in Psychology in 2019 (Dissertation: [The development and validation of a hierarchical multiple-goal pursuit model](https://drum.lib.umd.edu/handle/1903/25052)) and is currently a Senior Research Psychologist at the [U.S. Deparment of Defense Office of Pepole Analytics](https://www.opa.mil/). Her research examines how negative interpersonal relations, workplace incivility, and leadership behaviors impact an individual’s ability to thrive in their workplace and throughout their career.
+Hannah Samuelson earned her PhD in Psychology in 2019 (Dissertation: [The development and validation of a hierarchical multiple-goal pursuit model](https://drum.lib.umd.edu/handle/1903/25052)). Hannah is currently a Senior Research Psychologist at the [U.S. Deparment of Defense Office of Pepole Analytics](https://www.opa.mil/) where she conducts research examining how negative interpersonal relations, workplace incivility, and leadership behaviors impact an individual’s ability to thrive in their workplace and throughout their career.
