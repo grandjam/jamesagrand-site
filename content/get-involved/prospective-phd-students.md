@@ -159,6 +159,6 @@ You are welcome to email me to introduce yourself prior to sending your applicat
 
 Additionally, there is simply not enough time in the day for me to take meetings or phone/video calls with all applicants who wish to chat. I thus have a policy of not scheduling private conversations with any prospecitve student during the application process unless there are particularly unusual circumstances (e.g., military applicants, applicants with atypical funding situations). After I have completed my initial review of all submitted applications, I schedule phone/video calls with a small number of applicants to provide an opportunity for us to further discuss mutual interests and learn more about relevant experiences.
 
-You may email me or any of my [current graduate students](/people) if you have specific questions that are not addressed here. However, and prior to doing so, I strongly encourage you to review all the information found on my website as you will likely find answers to many common questions about the work I do and what it would be like to work with me.
+If you have specific questions that are not addressed on this site, you may attempt to contact any of the [graduate students](/people) currently working with me. However, prior to doing so, I strongly encourage you to review all the information found on this website as you will likely find answers to many common questions about the work I do and what it would be like to work with me.
 <hr>
 {{< /spoiler >}}
