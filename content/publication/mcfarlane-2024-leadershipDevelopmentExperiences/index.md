@@ -13,8 +13,8 @@ authors:
 - RoseFernandez
 tags: [Healthcare, Leadership]
 categories: [Leadership]
-inPress: true
-date: '9999-10-17'
+inPress: false
+date: '2024-01-31'
 lastmod: 2021-05-13T23:47:21-04:00
 featured: false
 draft: false
@@ -22,7 +22,7 @@ draft: false
 # Custom links (uncomment lines below)
 links:
 - name: Paper
-  url: uploads/pubs/McFarlane et al (in press) -- leader development experiences.pdf
+  url: https://escholarship.org/uc/item/1c72c21m
   icon: file-pdf
   icon_pack: far
 
@@ -50,7 +50,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects:
 - translational-sim-training
-publishDate: '2023-08-31T03:47:20.916772Z'
+publishDate: '2024-01-31T03:47:20.916772Z'
 publication_types:
 - '2'
 abstract: "**Background:** Trauma team leadership is a core skill for the practice 
@@ -72,5 +72,5 @@ residents. This includes three primary sources of leadership development, the du
 leader and learner, and various contextual factors. Research is needed to understand how these 
 factors and experiences can be leveraged or mitigated to improve resident leadership training outcomes."
 publication: '*Western Journal of Emergency Medicine*'
-doi: ""
+doi: "https://doi.org/10.5811/westjem.60098"
 ---

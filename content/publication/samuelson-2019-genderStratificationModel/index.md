@@ -21,7 +21,7 @@ draft: false
 # Custom links (uncomment lines below)
 links:
 - name: Paper
-  url: https://reader.elsevier.com/reader/sd/pii/S1048984318306179?token=4C283E794B553AC6072D2FDDD74FF83DEA7269D44B4114E52330F0292422D9F2F1C24867E545552F53B8D27ED0AE2E95&originRegion=us-east-1&originCreation=20210531012204
+  url: https://www.sciencedirect.com/science/article/pii/S1048984318306179
   icon: file-pdf
   icon_pack: far
 - name: Code
