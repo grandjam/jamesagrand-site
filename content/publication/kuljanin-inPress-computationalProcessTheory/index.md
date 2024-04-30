@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Advancing organizational science With computational process theories.
+title: Advancing organizational science with computational process theories.
 subtitle: ''
 summary: ''
 authors:

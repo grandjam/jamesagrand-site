@@ -6,7 +6,7 @@ role: Assistant Professor, Emergency Medicine & Director of Simulation
 social:
   - icon: globe
     icon_pack: fas
-    link: https://em.uw.edu/faculty/elizabeth-rosenman-md
+    link: https://em.uw.edu/people/faculty/elizabeth-rosenman
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=EG5XB_IAAAAJ&hl=en
