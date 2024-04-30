@@ -12,7 +12,10 @@ authors:
 - GoranKuljanin
 tags: [Emergence, Multilevel Theory, Research Methods]
 categories: [Complex Systems, Computational Modeling]
+# inPress -- set to true will change the date on the article page to In Press; set to false will show publication date
 inPress: false
+# inPressDate -- set to time with year 9999-xx-xxTxx:xx:xx-xx:xx to have article listed as "in press" on Publications page; set to '' and include a date in the 'date' field once published
+inPressDate: ''
 date: '2013-06-25'
 lastmod: 2021-05-13T23:46:57-04:00
 featured: false

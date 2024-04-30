@@ -13,7 +13,10 @@ authors:
 - Scott Tonidandel
 tags: [Registered Reports, Results-blind Reviewing, Robust Science]
 categories: [Open Science]
+# inPress -- set to true will change the date on the article page to In Press; set to false will show publication date
 inPress: false
+# inPressDate -- set to time with year 9999-xx-xxTxx:xx:xx-xx:xx to have article listed as "in press" on Publications page; set to '' and include a date in the 'date' field once published
+inPressDate: ''
 date: '2018-07-18'
 lastmod: 2021-05-13T23:47:14-04:00
 featured: false

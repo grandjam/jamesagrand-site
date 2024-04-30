@@ -1,5 +1,5 @@
 ---
-role: Assistant Professor, Management & Entrepreneurship
+role: Associate Professor, Management & Entrepreneurship
 # interests:
 #   - Test
 #   - Test

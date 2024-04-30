@@ -13,7 +13,10 @@ authors:
 - RoseFernandez
 tags: [Teamwork, Health Care]
 categories: [Teams]
+# inPress -- set to true will change the date on the article page to In Press; set to false will show publication date
 inPress: false
+# inPressDate -- set to time with year 9999-xx-xxTxx:xx:xx-xx:xx to have article listed as "in press" on Publications page; set to '' and include a date in the 'date' field once published
+inPressDate: ''
 date: '2017-06-01'
 lastmod: 2021-05-13T23:47:06-04:00
 featured: false

@@ -30,6 +30,10 @@ module:
 ## ADVANCED
 ############################
 
+frontmatter: 
+  date:
+  - inPressDate
+  - :default
 enableGitInfo: false
 summaryLength: 30
 paginate: 10
