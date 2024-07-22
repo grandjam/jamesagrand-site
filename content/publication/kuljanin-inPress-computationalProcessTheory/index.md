@@ -19,15 +19,15 @@ inPress: true
 inPressDate: 9999-05-13T23:47:19-04:00
 date: 2023-05-13T23:47:19-04:00
 lastmod: ''
-featured: false
+featured: true
 draft: false
 
 # Custom links (uncomment lines below)
 links: 
-# - name: Paper
-#   url: "https://osf.io/preprints/psyarxiv/rxgsj"
-#   icon: file-pdf
-#   icon_pack: far
+ - name: Paper
+   url: uploads/pubs/Kuljanin et al (in press) -- computational process theory.pdf
+   icon: file-pdf
+   icon_pack: far
 # - name: OSF
 #   url: "https://osf.io/69fpz/"
 #   icon: osf
@@ -65,5 +65,5 @@ publication_types:
 - '2'
 abstract: Organizational scholars commonly refer to organizations as complex systems unfolding as a function of work processes. Consequently, the direct study of work processes necessitates our attention. However, organizational scholars tend not to study work processes directly. Instead, organizational scholars commonly develop theories about relationships among psychological construct phenomena that indirectly reference people’s affective, behavioral, cognitive, and/or social processes as underlying explanations. Specifically, construct-oriented theories summarize processes in operation across actors, time, and contexts, and thus, provide limited insights into how focal phenomena manifest directly as a function of process operations. Construct theories remain one-step removed from articulating sequences of actions and two-steps removed from describing generative mechanisms responsible for observed actions. By “missing the action,” construct theories offer incomplete explanatory accounts and imprecise interventions. We assert that researchers in organizational science can make progress towards addressing these concerns by directing greater attention to developing computational process theories. We begin by presenting a framework for differentiating theories based on their focus (constructs versus processes) and modality (narrative versus computational). We use the framework to contrast narrative construct theories to computational process theories. We then describe key design principles for developing computational process theories and explain those principles using a leadership example. We use simulated data, from the computational process model we develop, to explicitly demonstrate the differences between construct and process thinking. We then discuss how computational process theories advance theory development. We conclude with a discussion of the long-term benefits of computational process theories for organizational science.
 publication: '*The Leadership Quarterly*'
-doi: ''
+doi: 'https://doi.org/10.1016/j.leaqua.2024.101797'
 ---

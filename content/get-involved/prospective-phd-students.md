@@ -22,30 +22,30 @@ header:
 </div> -->
 
 <!-- Want to but not sure if accepting new graduate students -->
-<!-- <div class = "alert alert-warning">
+<div class = "alert alert-warning">
   <div class = "row">
       <div class = "col-md-12">
         I hope to recruit a new PhD student during the current application cycle. However, I have not received approval to do so at this time. This means there is a possibility that I will NOT be reviewing prospective candidates this year, so please weigh this consideration in your decision to submit an application. I will update the status of my recruitment intentions as soon as I know more, so please check back at a later date.
         <br><span style="font-weight: bold">Last updated: <script> document.write(new Date().toLocaleDateString());</script></span>
       </div>
   </div>
-</div> -->
+</div>
 
 <!-- Not accepting new graduate students -->
-<div class = "alert alert-danger">
+<!-- <div class = "alert alert-danger">
   <div class = "row">
       <div class = "col-md-12">
         I will not be recruiting a new PhD student for the current application cycle. However, exceptions may be made for applicants with special funding circumstances (i.e., external funding source, military funding). If this applies to you, please contact me directly to discuss potential opportunities.
         <br><span style="font-weight: bold">Last updated: <script>document.write(new Date().toLocaleDateString());</script></span>
       </div>
   </div>
-</div>
+</div> -->
 
 This page is intended to provide information, suggestions, and transparency for individuals interested in applying to work with me towards the completion of their PhD. I recognize that the PhD application process is a highly competitve and selective process. However, I also recognize that not every qualified candidate may have had the same access to or the same quality of mentorship, experiences, or opportunities during their undergraduate education or when preparing their application materials. My hope in providing this material is to offer insight into how I review PhD applicants so that prospective candidates can (a) make a more informed decision as to whether they think I would be a good match as an advisor and (b) prepare their application materials in a way that provides me and the review committee the most informative picture of your capabilities, interests, and motivations.
 
 Note that the information provided below are my personal views and may not reflect the opinions or advice of any other institution, department, or faculty.
-
 <hr>
+
 
 {{< spoiler text = "How do I know if I am a \\"good fit\\" to work with you?" >}}
 "Fit" has been a [notoriously tricky and suprisingly complex concept to define](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1744-6570.1996.tb01790.x) and making decisions based too heavily on perceptions of fit has the potential to [perpetuate biases and inequities](https://www.shrm.org/hr-today/news/hr-magazine/1118/pages/does-hiring-for-culture-fit-perpetuate-bias.aspx) if not carefully considered. To this end, I attempt to consider this question from the perspective of a prospective student's [supplementary and complementary fit](https://www.sciencedirect.com/science/article/abs/pii/0001879187900431):
@@ -64,6 +64,7 @@ Based on these distinctions, I've listed some aspects of prospective PhD student
   - *Research interests/topics.* I am generally less concerned with whether I share the exact same *specific* topics of research interest (e.g., team cognition, team processes, training) with my graduate students. Indeed, the opportunity to learn, grow, and be pushed by the unique interests of my students is something I find very rewarding and motivating. However, I have a strong inclination towards approaching research questions/topics from the perspective of complex systems, process mechanisms, and observing behaviors over time. Furthemore, having at least some alignment with my substantive interests can be helpful as there are many topics for which I won't possess the requisite expertise to be an effective mentor. Nevertheless, so as long as you are open/willing to integrate your ideas and collaborate with me on your specific research interests, you are likely to fit well with my work and approach to PhD training.
 <hr>
 {{< /spoiler >}}
+
 
 {{< spoiler text = "What do you think makes a great PhD student?" >}}
 Everyone has their own strengths and weaknesses that make them unique, and there is certainly no one "right" way to succeed as a PhD student. In my experience, the best doctoral students I have seen and/or had the opportunity to work with all had some combination of the following capacities. Note this doesn't mean I think a person must have *all* of these things to be successful as a PhD candidate; but all successful PhD candidates I've known had many of these qualities to different degrees.
@@ -100,6 +101,7 @@ Everyone has their own strengths and weaknesses that make them unique, and there
 
 <hr>
 {{< /spoiler >}}
+
 
 {{< spoiler text = "How do you evaluate PhD applications?" >}}
 Although the term is often over-used and under-defined in higher education admissions, I do my best to adopt a [*holistic review*](https://professionals.collegeboard.org/pdf/understanding-holistic-review-he-admissions.pdf) of prospective PhD candidates. For my purposes, this means three things:
@@ -154,11 +156,20 @@ In the previous section ("What do you think makes a great PhD student?"), I list
 <hr>
 {{< /spoiler >}}
 
+
+{{< spoiler text = "How do I apply to work with you?" >}}
+Any individual wanting to pursue a doctoral degree (whether with me as their advisor or not!) must follow the procedures for applying to the university's graduate school. General information about my department's graduate program and how specifically to apply to our PhD program is available [here](https://psyc.umd.edu/landingtopic/seeking-doctoral-degree). Additional information about our graduate program, including life as a graduate student and important policies, can be found [here](https://psyc.umd.edu/landing/Graduate).
+<br /><br />
+Please note that you are **NOT** required to contact me or seek my permission to apply to the graduate school or our program. However, if you are interested in working with me as your advisor, I strongly recommend ONLY applying during application cycles in which I am recruiting for a new PhD student. Information on whether I am seeking applicants for PhD students will be kept up to date on this website.
+<hr>
+{{< /spoiler >}}
+
+
 {{< spoiler text = "Should I let you know of my interest in working with you? Can I schedule a call with you for more information?" >}}
 You are welcome to email me to introduce yourself prior to sending your application, but it is not required--and frankly does not affect your chances of being selected. 
 
 Additionally, there is simply not enough time in the day for me to take meetings or phone/video calls with all applicants who wish to chat. I thus have a policy of not scheduling private conversations with any prospecitve student during the application process unless there are particularly unusual circumstances (e.g., military applicants, applicants with atypical funding situations). After I have completed my initial review of all submitted applications, I schedule phone/video calls with a small number of applicants to provide an opportunity for us to further discuss mutual interests and learn more about relevant experiences.
 
-If you have specific questions that are not addressed on this site, you may attempt to contact any of the [graduate students](/people) currently working with me. However, prior to doing so, I strongly encourage you to review all the information found on this website as you will likely find answers to many common questions about the work I do and what it would be like to work with me.
+If you have specific questions that are not addressed on this site, you may consider contacting any of the [graduate students](/people) currently working with me. However, prior to doing so, I strongly encourage you to review all the information found on this website as you will likely find answers to many common questions about the work I do and what it would be like to work with me.
 <hr>
 {{< /spoiler >}}
