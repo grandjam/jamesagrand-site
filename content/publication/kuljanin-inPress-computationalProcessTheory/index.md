@@ -24,14 +24,14 @@ draft: false
 
 # Custom links (uncomment lines below)
 links: 
- - name: Paper
-   url: uploads/pubs/Kuljanin et al (in press) -- computational process theory.pdf
-   icon: file-pdf
-   icon_pack: far
-# - name: OSF
-#   url: "https://osf.io/69fpz/"
-#   icon: osf
-#   icon_pack: ai
+- name: Paper
+  url: "https://osf.io/preprints/psyarxiv/83ryt"
+  icon: file-pdf
+  icon_pack: far
+- name: OSF
+  url: "https://osf.io/unmab/"
+  icon: osf
+  icon_pack: ai
 # - name: Web app
 #   url: "https://grandjam.shinyapps.io/Building_Comp_Models_in_R/"
 #   icon: r-project

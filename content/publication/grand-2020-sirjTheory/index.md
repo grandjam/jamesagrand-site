@@ -27,14 +27,14 @@ links:
   url: "https://github.com/grandjam/SiRJ"
   icon: github
   icon_pack: fab
-- name: Web app
-  url: "https://grandjam.shinyapps.io/sirj/"
-  icon: r-project
-  icon_pack: fab
 - name: OSF
   url: "https://osf.io/uwdfm/"
   icon: osf
   icon_pack: ai
+- name: Web app
+  url: "https://grandjam.shinyapps.io/sirj/"
+  icon: r-project
+  icon_pack: fab
 url_pdf: ''
 url_code: ''
 url_dataset: ''
