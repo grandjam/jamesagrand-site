@@ -29,7 +29,7 @@ title: Elizabeth D. Rosenman
 email: ""
 # For people page
 user_groups: 
-  - Recent & Frequent Collaborators
+  - Collaborators
 ---
 Elizabeth (Liza) Rosenman, M.D., is a board certified physician in the Emergency Departments of Harborview and UW Medical Centers and a UW assistant professor of Emergency Medicine.
 

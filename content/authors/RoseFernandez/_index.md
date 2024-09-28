@@ -30,7 +30,7 @@ title: Rosemarie Fernandez
 email: ""
 # For people page
 user_groups: 
-  - Recent & Frequent Collaborators
+  - Collaborators
 ---
 Rosemarie (Rose) Fernandez, M.D., is an associate professor in emergency medicine at the University of Florida. Dr. Fernandez has expertise in both simulation-based research and team performance research. She has focused much of her work on using simulation to understand and improve resuscitation processes for both in-hospital and out-of-hospital emergencies. Dr. Fernandez has been a principal investigator on simulation-based grants funded by the Blue Cross Blue Shield of Michigan Foundation, the state of Washington and the Emergency Medicine Patient Safety Foundation. Her current work is funded by the Agency for Healthcare Research and Quality as well as the Department of Defense, and she focuses on developing leadership skills to improve trauma resuscitations. She applies human-factors engineering approaches to help understand how interdisciplinary teams and multi-team systems can effectively care for critically ill patients.
 

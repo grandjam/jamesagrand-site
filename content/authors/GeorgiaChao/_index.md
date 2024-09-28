@@ -30,7 +30,7 @@ title: Georgia T. Chao
 email: ""
 # For people page
 user_groups: 
-  - Recent & Frequent Collaborators
+  - Collaborators
 ---
 Georgia Chao, Ph.D., is a Professor of Psychology at the University of South Florida. Her research interests are in the areas of teams, work adjustment, and cross-cultural psychology. Dr. Chao has served in leadership positions—principal investigator, Co-PI, or project director—on research and applied projects in these areas, funded with nearly three million dollars in grants.
 

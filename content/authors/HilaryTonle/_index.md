@@ -1,12 +1,12 @@
 ---
-role: Undergraduate Research Assistant
+role: Research Assistant
 # interests:
 #   - Test
 #   - Test
-# social:
-#   - icon: 
-#     icon_pack: 
-#     link: 
+social:
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/hilarytonle/
 education:
   courses:
     - course: BA in Psychology (Minors in Technology Entrepreneurship and Data Sciences)
@@ -18,6 +18,6 @@ title: Hilary Tonle
 email: ""
 # For people page
 user_groups: 
-  - Undergraduate Research Assistants
+  - Lab Alumni
 ---
-Hilary Tonle graduated with a degree in Psychology and minors in Technology Entrepreneurship and Data Sciences from the University of Maryland in 2023. Hilary is currently prepraing to apply to graduate school to pursue a PhD in I-O psychology. Her interests revolve around teams and leadership. Other personal interests include philosophy, and learning new languages.
+<!-- Hilary Tonle graduated with a degree in Psychology and minors in Technology Entrepreneurship and Data Sciences from the University of Maryland in 2023. Hilary is currently prepraing to apply to graduate school to pursue a PhD in I-O psychology. Her interests revolve around teams and leadership. Other personal interests include philosophy, and learning new languages. -->

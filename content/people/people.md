@@ -20,9 +20,10 @@ content:
   user_groups:
     - Principal Investigator
     - Current Graduate Students
-    - Undergraduate Research Assistants
+    - Lab Members
     - PhD Alumni
-    - Recent & Frequent Collaborators
+    - Collaborators
+    - Lab Alumni
 design:
   # Show user's social networking links? (true/false)
   show_social: true

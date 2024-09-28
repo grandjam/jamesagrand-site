@@ -33,7 +33,7 @@ title: Steve W. J. Kozlowski
 email: ""
 # For people page
 user_groups: 
-  - Recent & Frequent Collaborators
+  - Collaborators
 ---
 Steve W. J. Kozlowski, Ph.D. is a World Class Scholar and Professor at the University of South Florida (previously Michigan State University). He is a recognized authority in the areas of multilevel organizational systems theory; team leadership and team effectiveness; and learning, training, and adaptation. The goal of his programmatic research is to generate actionable theory, research-based principles, and deployable tools to develop adaptive individuals, teams, and organizations. 
 

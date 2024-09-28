@@ -13,9 +13,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/hannah-samuelson-9a28b5134/
-  - icon: cv
-    icon_pack: ai
-    link: https://www.hannahlsamuelson.com/cv
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: https://www.hannahlsamuelson.com/cv
 #   - icon: envelope
 #     icon_pack: fas
 #     link: /#contact

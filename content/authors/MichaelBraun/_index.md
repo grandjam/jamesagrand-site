@@ -27,9 +27,9 @@ title: Michael T. Braun
 email: ""
 # For people page
 user_groups: 
-  - Recent & Frequent Collaborators
+  - Collaborators
 ---
-Michael Braun is an assistant professor in Management at the Driehaus College of Business. He teaches courses in management, data ethics, and training and career development. Before joining DePaul in 2019, Braun taught courses in industrial and organizational psychology at the University of South Florida.
+Michael Braun is an associate professor in Management at the Driehaus College of Business. He teaches courses in management, data ethics, and training and career development. Before joining DePaul in 2019, Braun taught courses in industrial and organizational psychology at the University of South Florida.
 
 Braun’s research focuses on emergent leadership, team cohesion, team knowledge emergence and decision-making, and modeling multilevel dynamics. His research articles have been published in numerous journals, including the Journal of Applied Psychology, Organizational Research Methods, and the Journal of Vocational Behavior. He is also the recipient of several awards, including the 2013 Organizational Research Method Best Paper Award, the 2015 Owens Scholarly Achievement Award, and the 2017 Journal of Business and Psychology Reviewer of the Year Award.
 

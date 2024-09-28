@@ -33,7 +33,7 @@ title: Goran Kuljanin
 email: ""
 # For people page
 user_groups: 
-  - Recent & Frequent Collaborators
+  - Collaborators
 ---
  Goran Kuljanin serves as an assistant professor in the Department of Management & Entrepreneurship in the Driehaus College of Business at DePaul University. He teaches courses on business and people analytics, human resources management and organizational behavior. Before joining the business college, he received two nominations for Mentor of the Year in DePaul's College of Science and Health. 
 
