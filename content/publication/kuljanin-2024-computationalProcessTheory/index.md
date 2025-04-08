@@ -14,10 +14,10 @@ authors:
 tags: [Theory-building, Leadership, Research Methods]
 categories: [Complex Systems, Computational Modeling, Emergence]
 # inPress: true will change the date on the article page to In Press
-inPress: true
+inPress: FALSE
 # inPressDate: set to time with year 9999-xx-xxTxx:xx:xx-xx:xx to have article listed as "in press" on Publications page; set to '' and include a date in the 'date' field once published
-inPressDate: 9999-05-13T23:47:19-04:00
-date: 2023-05-13T23:47:19-04:00
+inPressDate: ''
+date: 2024-08-13
 lastmod: ''
 featured: true
 draft: false
