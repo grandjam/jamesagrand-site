@@ -22,24 +22,24 @@ header:
 </div> -->
 
 <!-- Want to but not sure if accepting new graduate students -->
-<div class = "alert alert-warning">
+<!-- <div class = "alert alert-warning">
   <div class = "row">
       <div class = "col-md-12">
         I hope to recruit a new PhD student during the current application cycle. However, I have not received approval to do so at this time. This means there is a possibility that I will NOT be reviewing prospective candidates this year, so please weigh this consideration in your decision to submit an application. I will update the status of my recruitment intentions as soon as I know more, so please check back at a later date.
         <br><span style="font-weight: bold">Last updated: <script> document.write(new Date().toLocaleDateString());</script></span>
       </div>
   </div>
-</div>
+</div> -->
 
 <!-- Not accepting new graduate students -->
-<!-- <div class = "alert alert-danger">
+<div class = "alert alert-danger">
   <div class = "row">
       <div class = "col-md-12">
-        I will not be recruiting a new PhD student for the current application cycle. However, exceptions may be made for applicants with special funding circumstances (i.e., external funding source, military funding). If this applies to you, please contact me directly to discuss potential opportunities.
+        I am not planning to recruit a new PhD student for the current application cycle. I will update this website if circumstances change. Note that exceptions may be made for applicants with special funding circumstances (i.e., external funding source, military funding). If this applies to you, please contact me directly to discuss potential opportunities.
         <br><span style="font-weight: bold">Last updated: <script>document.write(new Date().toLocaleDateString());</script></span>
       </div>
   </div>
-</div> -->
+</div>
 
 This page is intended to provide information, suggestions, and transparency for individuals interested in applying to work with me towards the completion of their PhD. I recognize that the PhD application process is a highly competitve and selective process. However, I also recognize that not every qualified candidate may have had the same access to or the same quality of mentorship, experiences, or opportunities during their undergraduate education or when preparing their application materials. My hope in providing this material is to offer insight into how I review PhD applicants so that prospective candidates can (a) make a more informed decision as to whether they think I would be a good match as an advisor and (b) prepare their application materials in a way that provides me and the review committee the most informative picture of your capabilities, interests, and motivations.
 

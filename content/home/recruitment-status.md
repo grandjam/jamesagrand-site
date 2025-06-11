@@ -30,20 +30,20 @@ design:
 <div class = "row recruitment">
    <!-- GRAD STUDENT RECRUITING STATUS-->
   <div class = "col-12 col-sm-6 d-flex">
-    <div class = "card flex-fill warning">
+    <div class = "card flex-fill danger">
       <div class = "card-img-top">
-        <i class = "fas fa-question-circle warning"></i>
+        <i class = "fas fa-times-circle danger"></i>
       </div>
-      <div class = "card-body d-flex flex-column">
-        <h3 class = "card-title">GRADUATE STUDENTS</h3>
-        <p class = "card-text">I hope to recruit a PhD student for the current application cycle, but am not yet approved to do so. Please click the link below for more information and check back soon.</p>
-        <div class = "card-btn mt-auto">
-          <a href = "/get-involved/prospective-phd-students" class = "btn btn-primary btn-lg mb-3 mb-md-1">
-          <i class = "fas fa-circle-notch pr-1" aria-hidden="true"></i>
-          More Info</a>
-        </div>
+    <div class = "card-body d-flex flex-column">
+      <h3 class = "card-title">GRADUATE STUDENTS</h3>
+      <p class = "card-text">I am not recruiting PhD students for the current application cycle.</p>
+      <div class = "card-btn mt-auto">
+        <a href = "/get-involved/prospective-phd-students" class = "btn btn-primary btn-lg mb-3 mb-md-1">
+        <i class = "fas fa-circle-notch pr-1" aria-hidden="true"></i>
+        More Info</a>
       </div>
     </div>
+  </div>
   </div>
   <!-- UNDERGRAD STUDENT RECRUITING STATUS-->
   <div class = "col-12 col-sm-6 d-flex">
